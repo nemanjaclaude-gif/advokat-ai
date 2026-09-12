@@ -1,0 +1,2 @@
+Nije moguće — v. CASE_RECORD.md.
+LAST UPDATED: 31.8.2026

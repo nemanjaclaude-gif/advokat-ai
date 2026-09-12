@@ -1,0 +1,2 @@
+Centralno (Sloj C): da li se prigovor radi ubrzanja može odbaciti kao "nedozvoljen" samo zato što je odluka doneta (ali pisana izrada u toku) posle podnošenja prigovora, a pre njegovog rešavanja — v. Zakon o zaštiti prava na suđenje u razumnom roku čl. 5 st. 1, presedan Уж-15064/2018. Povezano tematski sa ISSUE-0001 (troškovi/rokovi kod procesnog kašnjenja organa) i predmetom 2026-013-DJORDJEVIC-ALEKSANDAR (disciplinska prijava zbog kašnjenja suda). Kandidat za formalan ISSUE-ID.
+LAST UPDATED: 31.8.2026

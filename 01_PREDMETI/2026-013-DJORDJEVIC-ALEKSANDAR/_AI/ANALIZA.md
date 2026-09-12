@@ -1,0 +1,5 @@
+Pokazivač — puna analiza u `01_RADNI_MATERIJALI/PRAVNA-ANALIZA.md`.
+
+CONFIDENCE: MODERATE-HIGH materijalno (v. CASE_RECORD.md).
+
+LAST UPDATED: 31.8.2026

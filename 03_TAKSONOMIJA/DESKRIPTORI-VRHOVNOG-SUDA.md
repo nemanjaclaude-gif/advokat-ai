@@ -1,0 +1,2106 @@
+# DESKRIPTORI VRHOVNOG SUDA — OTVORENA LISTA DESKRIPTORA
+
+## Svrha
+Ovaj fajl sadrži proverenu hijerarhiju zvanične Otvorene liste deskriptora Vrhovnog suda.
+
+## Pravilo
+- ne izmišljati šifre;
+- ne zaključivati podšifru iz nadređene šifre;
+- čuvati naziv deskriptora verno zvaničnom izvoru;
+- uz verziju zabeležiti datum/preuzeti izvor.
+
+## Verzija
+Datum provere: 29.01.2026.
+Usvojeno (na listi): 17.01.2025.
+Izvor: https://www.vrh.sud.rs/sites/default/files/otvorena-lista-deskriptora.pdf (Republika Srbija, Vrhovni sud — "Otvorena lista deskriptora", Beograd, 17. januar 2025. godine)
+
+Napomena: alternativni URL naveden na stranici za pretragu baze sudske prakse (https://www.vk.sud.rs/sites/default/files/attachments/Otvorena%20lista%20deskriptora%20%28numerisana%29%20FINAL.pdf) pri preuzimanju nije vratio validan PDF (vraćen je HTML sadržaj), pa je za ovaj unos korišćen isključivo dokument sa vrh.sud.rs, koji je uspešno preuzet i pročitan u celosti (47 fizičkih PDF strana, 43 sadržajne strane teksta).
+
+---
+
+## 1. Standardi zaštite ljudskih prava
+
+### 1.1 Član 2. - pravo na život
+- 1.1.1 Pozitivne obaveze
+  - 1.1.1.1 Delotvorna istraga
+- 1.1.2 Smrt u pritvoru ili ustanovi za izvršenje krivičnih sankcija ili mera bezbednosti
+- 1.1.3 Prinudni nestanak
+- 1.1.4 Zdravstvena zaštita
+- 1.1.5 Žrtve krivičnih dela
+- 1.1.6 Izuzeci ili apsolutno nužna upotreba sile
+  - 1.1.6.1 Odbrana od protivpravnog nasilja
+  - 1.1.6.2 Zakonito hapšenje
+  - 1.1.6.3 Sprečavanje bekstva lica zakonito lišenog slobode
+  - 1.1.6.4 Zakonita mera preduzeta u cilju suzbijanja mera ili nasilja
+- 1.1.7 Proterivanje
+- 1.1.8 Ekstradicija
+
+### 1.2 Član 3. - zabrana mučenja, nečovečnog ili ponižavajućeg postupanja ili kažnjavanja
+- 1.2.1 Pozitivne obaveze
+  - 1.2.1.1 Delotvorna istraga
+- 1.2.2 Zabrana mučenja
+- 1.2.3 Nečovečno postupanje
+- 1.2.4 Nečovečno kažnjavanje
+- 1.2.5 Postupanje policije
+- 1.2.6 Uslovi u pritvoru ili ustanovi za izvršenje krivičnih sankcija ili mera bezbednosi
+- 1.2.7 Ponižavajuće postupanje
+- 1.2.8 Ponižavajuće kažnjavanje
+- 1.2.9 Proterivanje
+- 1.2.10 Ekstradicija
+
+### 1.3 Član 4. - zabrana ropstva i prinudnog rada
+- 1.3.1 Zabrana ropstva
+- 1.3.2 Pristanak na ropski položaj
+- 1.3.3 Zabrana prinudnog rada
+- 1.3.4 Obavezan rad
+- 1.3.5 Trgovina ljudima
+- 1.3.6 Izuzeci kod zabrane ropstva i prinudnog rada
+  - 1.3.6.1 Rad lica lišenih slobode
+  - 1.3.6.2 Radne obaveze kod uslovnog otpusta
+  - 1.3.6.3 Alternativne sankcije
+  - 1.3.6.4 Služba vojne prirode
+  - 1.3.6.5 Rad u slučaju nepogoda
+  - 1.3.6.6 Rad u slučaju krize
+  - 1.3.6.7 Uobičajene građanske obaveze
+
+### 1.4 Član 5. - pravo na slobodu i sigurnost
+- 1.4.1 Lišenje slobode
+- 1.4.2 Zakonito hapšenje ili lišenje slobode
+  - 1.4.2.1 Lišenje slobode na osnovu sudske odluke
+  - 1.4.2.2 Lišenje slobode zbog neizvršenja zakonite sudske odluke
+  - 1.4.2.3 Lišenje slobode radi obezbeđenja ili ispunjenja neke obaveze propisane zakonom
+  - 1.4.2.4 Lišenje slobode zbog opravdane sumnje da je izvršeno krivično delo
+  - 1.4.2.5 Lišenje slobode radi sprečavanja bekstva nakon izvršenja krivičnog dela
+  - 1.4.2.6 Lišenje slobode radi sprečavanja izvršenja krivičnog dela
+  - 1.4.2.7 Lišenje slobode maloletnog lica na osnovu zakonite odluke
+    - 1.4.2.7.1 Lišenje slobode u svrhu vaspitnog nadzora
+    - 1.4.2.7.2 Lišenje slobode radi privođenja nadležnom organu
+  - 1.4.2.8 Lišenje slobode radi sprečavanje širenja zaraznih bolesti
+  - 1.4.2.9 Lišenje slobode lica lišenog poslovne sposobnosti
+  - 1.4.2.10 Lišenje slobode alkoholičara
+  - 1.4.2.11 Lišenje slobode uživaoca droge
+  - 1.4.2.12 Sprečavanje neovlašćenog ulaska u zemlju
+- 1.4.3 Proterivanje
+- 1.4.4 Ekstradicija
+- 1.4.5 Procesna jemstva
+  - 1.4.5.1 Informisanje
+    - 1.4.5.1.1 Informisanje bez odlaganja
+    - 1.4.5.1.2 Informisanje lica na jeziku koji razume
+    - 1.4.5.1.3 Informisanje o razlozima hapšenja ili lišenja slobode
+    - 1.4.5.1.4 Informisanje lica o optužbi koje mu se stavlja na teret
+  - 1.4.5.2 Izvođenje pred sudiju ili drugi nadležni organ
+    - 1.4.5.2.1 Izvođenje pred sudiju ili drugi nadležni organ bez odlaganja
+    - 1.4.5.2.2 Puštanje na slobodu
+    - 1.4.5.2.3 Mere obezbeđenja prisustva okrivljenog
+  - 1.4.5.3 Ispitivanje zakonitosti lišenja slobode
+    - 1.4.5.3.1 Hitnost postupka za ocenu zakonitosti lišenja slobode
+    - 1.4.5.3.2 Sudska ocena zakonitosti lišenja slobode
+      - 1.4.5.3.2.1 Dužina trajanja lišenja slobode
+      - 1.4.5.3.2.2 Razlozi za lišenje slobode
+  - 1.4.5.4 Ukidanje pritvora
+- 1.4.6 Naknada štete zbog neosnovanog lišenja slobode
+
+### 1.5 Član 6. - pravo na pravično suđenje
+- 1.5.1 Pravo na nezavisan sud
+- 1.5.2 Pravo na nepristrasan sud
+- 1.5.3 Pravo na sud ustanovljen na osnovu zakonu
+- 1.5.4 Pravo na pristup sudu
+  - 1.5.4.1 Pravo na besplatnu pravnu pomoć
+- 1.5.5 Pravo na javnu raspravu i objavljivanje presude
+  - 1.5.5.1 Isključenje javnosti
+    - 1.5.5.1.1 Zaštita maloletnika
+    - 1.5.5.1.2 Zaštita morala
+    - 1.5.5.1.3 Zaštita privatnosti stranaka u postupku
+    - 1.5.5.1.4 Zaštita javnog reda i mira
+    - 1.5.5.1.5 Zaštita interesa nacionalne bezbednosti
+    - 1.5.5.1.6 Zaštita interesa pravde
+- 1.5.6 Pravo na besplatnog prevodioca i besplatnog tumača
+- 1.5.7 Pravo na suđenje u razumnom roku
+  - 1.5.7.1 Krivični postupak
+  - 1.5.7.2 Građanski postupak
+  - 1.5.7.3 Upravni postupak i upravni spor
+  - 1.5.7.4 Prioritetni predmeti
+  - 1.5.7.5 Dužina trajanja postupka
+  - 1.5.7.6 Celovitost postupka
+  - 1.5.7.7 Kriterijumi za ocenu dužine postupka
+    - 1.5.7.7.1 Složenost predmeta
+      - 1.5.7.7.1.1 Složenost činjenica
+      - 1.5.7.7.1.2 Složenost pravnih pitanja
+      - 1.5.7.7.1.3 Složenost postupka
+    - 1.5.7.7.2 Ponašanje podnosioca predstavke
+    - 1.5.7.7.3 Ponašanje suda i drugih nadležnih organa
+    - 1.5.7.7.4 Značaj slučaja za podnosioca predstavke
+    - 1.5.7.7.5 Hitnost
+    - 1.5.7.7.6 Naročita hitnost
+  - 1.5.7.8 Pravni lekovi za ubrzanje postupka
+  - 1.5.7.9 Kompenzatorni pravni lekovi
+    - 1.5.7.9.1 Novčano obeštećenje (Naknada nematerijalne štete)
+    - 1.5.7.9.2 Naknada materijalne štete
+    - 1.5.7.9.3 Odmeravanje visine naknade
+- 1.5.8 Pravo na obrazloženu sudsku odluku
+- 1.5.9 Pravo na pravnu sigurnost
+- 1.5.10 Pretpostavka nevinosti
+- 1.5.11 Posebna prava okrivljenog
+  - 1.5.11.1 Pravo na obaveštenje o prirodi i razlozima dela koje se stavlja na teret
+    - 1.5.11.1.1 Podrobno obaveštenje o prirodi i razlozima optužbe
+    - 1.5.11.1.2 Obaveštenje bez odlaganja
+    - 1.5.11.1.3 Obaveštenje na jeziku koji razume
+  - 1.5.11.2 Pravo na odbranu
+    - 1.5.11.2.1 Primereno vreme i odgovarajući uslovi za pripremanje odbrane
+    - 1.5.11.2.2 Pristup prikupljenim dokazima
+  - 1.5.11.3 Pravo na branioca
+    - 1.5.11.3.1 Pravo okrivljenog da se brani sam
+    - 1.5.11.3.2 Pravo na izabranog branioca
+    - 1.5.11.3.3 Pravo na branioca po službenoj dužnosti
+    - 1.5.11.3.4 Pravo na besplatnog branioca
+  - 1.5.11.4 Pravo na suđenje u prisustvu okrivljenog
+  - 1.5.11.5 Zaštita od samooptuživanja i pravo na ćutanje
+  - 1.5.11.6 Pravo okrivljenog na jednakost oružja i kontradiktornost
+  - 1.5.11.7 Pravo na ispitivanje svedoka
+- 1.5.12 Izvršenje sudskih odluka
+- 1.5.13 Kvalitet zakona
+
+### 1.6 Član 7. - kažnjavanje samo na osnovu zakona
+- 1.6.1 Nullum crimen sine lege
+- 1.6.2 Nulla poena sine lege
+- 1.6.3 Zabrana strožeg kažnjavanja
+- 1.6.4 Primena blažeg zakona
+
+### 1.7 Član 8. - pravo na poštovanje privatnog i porodičnog života, doma i prepiske
+- 1.7.1 Pozitivne obaveze
+- 1.7.2 Privatni život
+  - 1.7.2.1 Fizički i psihički integritet
+  - 1.7.2.2 Odnosi sa drugima
+  - 1.7.2.3 Polni identitet i odnosi
+  - 1.7.2.4 Zaštita podataka o ličnosti
+    - 1.7.2.4.1 Prikupljanje, držanje, obrada i korišćenje podataka o ličnosti
+    - 1.7.2.4.2 Pristup ličnim podacima
+  - 1.7.2.5 Zaštita časti i ugleda
+- 1.7.3 Porodični život
+  - 1.7.3.1 Porodični odnosi
+  - 1.7.3.2 Nestale bebe (Utvrđivanje činjenica o statusu novorođene dece nestale iz porodilišta)
+  - 1.7.3.3 Imigracija i azil
+- 1.7.4 Pravo na dom
+- 1.7.5 Nepovredivost stana
+- 1.7.6 Prinudno iseljenje
+- 1.7.7 Tajnost pisama i drugih sredstava opštenja
+- 1.7.8 Komunikacije, prisluškivanje, nadzor i aktivnosti policije
+- 1.7.9 Pravo na zdravu životnu sredinu
+- 1.7.10 Ograničenje prava (mešanje javne vlasti)
+  - 1.7.10.1 U skladu sa zakonom
+  - 1.7.10.2 Neophodno u demokratskom društvu
+    - 1.7.10.2.1 Interes nacionalne bezbednosti
+    - 1.7.10.2.2 Javna bezbednost
+    - 1.7.10.2.3 Ekonomska dobrobit zemlje
+    - 1.7.10.2.4 Sprečavanje nereda ili kriminala
+    - 1.7.10.2.5 Zaštita zdravlja
+    - 1.7.10.2.6 Zaštita morala
+    - 1.7.10.2.7 Zaštita prava i sloboda drugih
+
+### 1.8 Član 9. - sloboda misli, savesti i veroispovesti
+- 1.8.1 Sloboda misli
+- 1.8.2 Prigovor savesti
+- 1.8.3 Sloboda veroispovesti
+- 1.8.4 Mešanje javnih vlasti (ograničenje prava) u ispovedanje vere ili uverenja
+  - 1.8.4.1 U skladu sa zakonom
+  - 1.8.4.2 Neophodno u demokratskom društvu
+    - 1.8.4.2.1 Interes javne bezbednosti
+    - 1.8.4.2.2 Zaštita javnog reda
+    - 1.8.4.2.3 Zaštita zdravlja ili morala
+    - 1.8.4.2.4 Zaštita prava i sloboda drugih
+
+### 1.9 Član 10. - sloboda izražavanja
+- 1.9.1 Primanje informacija
+- 1.9.2 Saopštavanje informacija i ideja
+  - 1.9.2.1 Politički govor
+  - 1.9.2.2 Umetničko izražavanje
+  - 1.9.2.3 Činjenične tvrdnje i vrednosni sudovi
+- 1.9.3 Sloboda medija
+  - 1.9.3.1 Sloboda osnivanja novina i drugih sredstava javnog saopštavanja
+    - 1.9.3.1.1 Dozvola za rad televizijskih i radio stanica
+    - 1.9.3.1.2 Sufinansiranje projekata u oblasti javnog informisanja
+  - 1.9.3.2 Dužnosti i odgovornosti sredstava javnog informisanja
+    - 1.9.3.2.1 Obaveza novinarske pažnje
+    - 1.9.3.2.2 Zabrana govora mržnje
+    - 1.9.3.2.3 Pravo na ispravku informacije prenete sredstvima informisanja
+  - 1.9.3.3 Sloboda medijskog izražavanja
+    - 1.9.3.3.1 Prava novinara na iznošenje stavova i mišljenja
+    - 1.9.3.3.2 Novinarska tajna
+    - 1.9.3.3.3 Slapp tužbe
+  - 1.9.3.4 Sloboda distribucije medija i medijskih sadržaja
+- 1.9.4 Mešanje javnih vlasti (ograničenje prava) u slobodu izražavanja
+  - 1.9.4.1 U skladu sa zakonom
+  - 1.9.4.2 Neophodno u demokratskom društvu
+    - 1.9.4.2.1 Interes nacionalne bezbednosti i teritorijalnog integriteta
+    - 1.9.4.2.2 Javna bezbednost
+    - 1.9.4.2.3 Sprečavanje nereda ili kriminala
+    - 1.9.4.2.4 Zaštita zdravlja ili morala
+    - 1.9.4.2.5 Zaštita ugleda ili prava drugih
+    - 1.9.4.2.6 Sprečavanje otkrivanja obaveštenja dobijenih u poverenju
+    - 1.9.4.2.7 Očuvanje autoriteta i nepristrasnosti sudstva
+- 1.9.5 Zaštita uzbunjivača
+
+### 1.10 Član 11. - sloboda okupljanja i udruživanja
+- 1.10.1 Sloboda mirnog okupljanja
+- 1.10.2 Sloboda udruživanja
+  - 1.10.2.1 Udruženja
+  - 1.10.2.2 Političke stranke
+  - 1.10.2.3 Udruživanje radi zaštite prava manjina
+  - 1.10.2.4 Sindikati
+- 1.10.3 Mešanje javnih vlasti
+  - 1.10.3.1 U skladu sa zakonom
+  - 1.10.3.2 Neophodno u demokratskom društvu
+    - 1.10.3.2.1 Interes nacionalne ili javne bezbednosti
+    - 1.10.3.2.2 Sprečavanje nereda ili kriminala
+    - 1.10.3.2.3 Zaštita zdravlja ili morala
+    - 1.10.3.2.4 Zaštita prava i sloboda drugih
+- 1.10.4 Ograničenje prava pripadnicima oružanih snaga, policije ili državne uprave
+
+### 1.11 Član 12. - pravo na sklapanje braka
+- 1.11.1 Pravo na stupanje u brak i zasnivanje porodice
+- 1.11.2 Pravo na ponovno stupanje u brak
+
+### 1.12 Član 13. - pravo na delotvoran pravni lek
+- 1.12.1 Delotvoran pravni lek
+
+### 1.13 Član 14. - zabrana diskriminacije
+- 1.13.1 Neposredna diskriminacija
+- 1.13.2 Posredna diskriminacija
+- 1.13.3 Pozitivna diskriminacija
+
+### 1.14 Član 1. protokola 1 - zaštita imovine
+- 1.14.1 Pojam imovine
+- 1.14.2 Načela
+  - 1.14.2.1 Pravo na neometano uživanje imovine
+  - 1.14.2.2 Zabrana oduzimanja imovine
+  - 1.14.2.3 Pravo države da reguliše korišćenje imovine
+- 1.14.3 Opravdanost mešanja u pravo na imovinu
+  - 1.14.3.1 Javni interes
+  - 1.14.3.2 Srazmernost
+  - 1.14.3.3 Kompenzacija
+- 1.14.4 Ograničenje prava na imovinu zakonom i planskim aktom
+- 1.14.5 Rušenje građevinskih objekata
+
+### 1.15 Član 2. protokola 1 - pravo na obrazovanje
+- 1.15.1 Zabrana uskraćivanja prava
+- 1.15.2 Obrazovanje u skladu sa verskim i filozofskim uverenjima roditelja
+
+### 1.16 Član 3. protokola 1 - pravo na slobodne izbore
+- 1.16.1 Slobodni izbori
+
+### 1.17 Član 1. protokola 4 - sloboda kretanja
+- 1.17.1 Sloboda kretanja unutar države
+- 1.17.2 Sloboda izbora boravišta unutar države
+- 1.17.3 Pravo napuštanja svake zemlje
+- 1.17.4 Oduzimanje i zaplena ličnih dokumenata
+- 1.17.5 Mešanje javnih vlasti
+  - 1.17.5.1 U skladu sa zakonom
+  - 1.17.5.2 Neophodno u demokratskom društvu
+    - 1.17.5.2.1 Interes nacionalne bezbednosti ili javne sigurnosti
+    - 1.17.5.2.2 Očuvanje javnog poretka
+    - 1.17.5.2.3 Sprečavanje kriminala
+    - 1.17.5.2.4 Zaštita zdravlja ili morala
+    - 1.17.5.2.5 Zaštita prava i sloboda drugih
+
+### 1.18 Članovi 3. i 4. protokola 4 - zabrana proterivanja
+- 1.18.1 Zabrana proterivanja sopstvenih državljana
+- 1.18.2 Zabrana grupnog proterivanja stranaca
+
+### 1.19 Član 1. protokola 7
+- 1.19.1 Zaštita u postupku proterivanja stranaca
+- 1.19.2 Proterivanje stranca pre nego što iskoristi pravo na zaštitu
+
+### 1.20 Član 2. protokola 7 – pravo na žalbu u krivičnim stvarima
+- 1.20.1 Pravo na preispitivanje odluke od strane višeg suda
+- 1.20.2 Izuzeci
+
+### 1.21 Član 3. protokola 7 – naknada za pogrešnu osudu
+- 1.21.1 Naknada štete zbog neosnovane osude
+
+### 1.22 Član 4. protokola 7 – pravo da se ne bude suđen ili kažnjen dva puta u istoj stvari
+- 1.22.1 Ne bis in idem (Zabrana dvostrukog gonjenja ili kažnjavanja)
+
+### 1.23 Član 5. protokola 7 – jednakost supružnika
+- 1.23.1 Ravnopravnost supružnika u građanskim pravima i obavezama
+  - 1.23.1.1 Ravnopravnost supružnika u odnosima prema deci
+    - 1.23.1.1.1 Mere države u interesu dece
+
+### 1.24 Protokol 12 – opšta zabrana diskriminacije
+- 1.24.1 Ostvarivanje svih prava predviđenih zakonom bez diskriminacije
+
+### 1.25 Ostali standardi zaštite ljudskih prava
+
+---
+
+## 2. Krivično pravo
+
+### 2.1 Krivično materijalno pravo
+- 2.1.1 Važenje krivičnog zakonodavstva
+- 2.1.2 Krivično delo
+  - 2.1.2.1 Pojam (elementi)
+  - 2.1.2.2 Izvršenje krivičnog dela nečinjenjem
+  - 2.1.2.3 Vreme i mesto izvršenja krivičnog dela
+  - 2.1.2.4 Delo malog značaja
+  - 2.1.2.5 Nužna odbrana
+  - 2.1.2.6 Krajnja nužda
+  - 2.1.2.7 Sila i pretnja
+- 2.1.3 Krivica i odgovornost
+  - 2.1.3.1 Krivica
+    - 2.1.3.1.1 Neuračunljivost
+    - 2.1.3.1.2 Skrivljena neuračunljivost
+    - 2.1.3.1.3 Umišljaj
+    - 2.1.3.1.4 Nehat
+    - 2.1.3.1.5 Odgovornost za težu posledicu
+    - 2.1.3.1.6 Stvarna zabluda
+    - 2.1.3.1.7 Pravna zabluda
+  - 2.1.3.2 Odgovornost urednika
+  - 2.1.3.3 Odgovornost izdavača, štampara i proizvođača
+- 2.1.4 Izvršenje krivičnog dela
+  - 2.1.4.1 Pokušaj krivičnog dela i nepodoban pokušaj
+  - 2.1.4.2 Dobrovoljni odustanak
+  - 2.1.4.3 Saučesništvo
+    - 2.1.4.3.1 Saizvršilaštvo
+    - 2.1.4.3.2 Podstrekavanje
+    - 2.1.4.3.3 Pomaganje
+    - 2.1.4.3.4 Kažnjavanje podstrekača i pomagača za pokušaj
+- 2.1.5 Kazne (svrha kažnjavanja i vrste)
+  - 2.1.5.1 Glavne i sporedne
+  - 2.1.5.2 Doživotni zatvor
+  - 2.1.5.3 Kazna zatvora
+  - 2.1.5.4 Kućni zatvor
+  - 2.1.5.5 Uslovni otpust
+  - 2.1.5.6 Novčana kazna
+  - 2.1.5.7 Rad u javnom interesu
+  - 2.1.5.8 Oduzimanje vozačke dozvole
+- 2.1.6 Odmeravanje kazne
+  - 2.1.6.1 Posebna okolnost za delo izvršeno iz mržnje
+  - 2.1.6.2 Povrat
+  - 2.1.6.3 Višestruki povrat
+  - 2.1.6.4 Ublažavanje kazne
+  - 2.1.6.5 Oslobođenje od kazne
+  - 2.1.6.6 Sticaj krivičnih dela
+  - 2.1.6.7 Produženo krivično delo
+- 2.1.7 Mere upozorenja
+  - 2.1.7.1 Uslovna osuda
+    - 2.1.7.1.1 Opozivanje
+    - 2.1.7.1.2 Uslovna osuda sa zaštitnim nadzorom
+  - 2.1.7.2 Sudska opomena
+  - 2.1.7.3 Mere bezbednosti
+    - 2.1.7.3.1 Obavezno psihijatrijsko lečenje i čuvanje u zdravstvenoj ustanovi
+    - 2.1.7.3.2 Obavezno psihijatrijsko lečenje na slobodi
+    - 2.1.7.3.3 Obavezno lečenje narkomana
+    - 2.1.7.3.4 Obavezno lečenje alkoholičara
+    - 2.1.7.3.5 Zabrana vršenja poziva, delatnosti i dužnosti
+    - 2.1.7.3.6 Zabrana upravljanja motornim vozilom
+    - 2.1.7.3.7 Oduzimanje predmeta
+    - 2.1.7.3.8 Proterivanje stranca iz zemlje
+    - 2.1.7.3.9 Javno objavljivanje presude
+    - 2.1.7.3.10 Zabrana približavanja i komunikacije sa oštećenim
+    - 2.1.7.3.11 Zabrana prisustvovanja određenim sportskim priredbama
+- 2.1.8 Oduzimanje imovinske koristi
+- 2.1.9 Pravne posledice osude
+- 2.1.10 Rehabilitacija, prestanak pravnih posledica osude i davanje podataka iz kaznene evidencije
+  - 2.1.10.1 Zakonska rehabilitacija
+  - 2.1.10.2 Sudska rehabilitacija
+- 2.1.11 Zastarelost
+  - 2.1.11.1 Zastarelost krivičnog gonjenja
+  - 2.1.11.2 Zastarelost izvršenja kazni i mera bezbednosti
+- 2.1.12 Amnestija i pomilovanje
+- 2.1.13 Krivična dela protiv života i tela
+  - 2.1.13.1 Ubistvo
+  - 2.1.13.2 Teško ubistvo
+    - 2.1.13.2.1 Na svirep i podmukao način
+    - 2.1.13.2.2 Pri bezobzirnom nasilničkom ponašanju
+    - 2.1.13.2.3 Pri čemu se sa umišljajem dovede u opasnost život još nekog lica
+    - 2.1.13.2.4 Pri izvršenju razbojništva ili razbojničke krađe
+    - 2.1.13.2.5 Iz koristoljublja, radi izvršenja ili prikrivanja kog drugog krivičnog dela, iz bezobzirne osvete ili iz drugih niskih pobuda
+    - 2.1.13.2.6 Lišenje života službenog ili vojnog lice pri vršenju službene dužnosti
+    - 2.1.13.2.7 Lišenje života sudije, javnog tužioca, zamenika javnog tužioca ili policijskog službenika u vezi sa vršenjem službene dužnosti
+    - 2.1.13.2.8 Lišenje života lice koje obavlja poslove od javnog značaja u vezi sa poslovima koje to lice obavlja
+    - 2.1.13.2.9 Lišenje života deteta ili bremenite žene
+    - 2.1.13.2.10 Lišenje života člana svoje porodice kojeg je prethodno zlostavljao
+    - 2.1.13.2.11 Umišljajno lišenje života više lica a ne radi se o ubistvu na mah, ubistvu deteta pri porođaju ili lišenju života iz samilosti
+  - 2.1.13.3 Ubistvo na mah
+  - 2.1.13.4 Ubistvo deteta pri porođaju
+  - 2.1.13.5 Lišenje života iz samilosti
+  - 2.1.13.6 Nehatno lišenje života
+  - 2.1.13.7 Navođenje na samoubistvo i pomaganje u samoubistvu
+  - 2.1.13.8 Nedozvoljen prekid trudnoće
+  - 2.1.13.9 Teška telesna povreda
+  - 2.1.13.10 Laka telesna povreda
+  - 2.1.13.11 Učestvovanje u tuči
+  - 2.1.13.12 Ugrožavanje opasnim oruđem pri tuči i svađi
+  - 2.1.13.13 Izlaganje opasnosti
+  - 2.1.13.14 Napuštanje nemoćnog lica
+  - 2.1.13.15 Nepružanje pomoći
+  - 2.1.13.16 Sakaćenje ženskog polnog organa
+- 2.1.14 Krivična dela protiv sloboda i prava čoveka i građanina
+  - 2.1.14.1 Povreda ravnopravnosti
+  - 2.1.14.2 Povreda prava upotrebe jezika i pisma
+  - 2.1.14.3 Povreda slobode izražavanja nacionalne ili etničke pripadnosti
+  - 2.1.14.4 Povreda slobode ispovedanja vere i vršenja verskih obreda
+  - 2.1.14.5 Protivpravno lišenje slobode
+  - 2.1.14.6 Povreda slobode kretanja i nastanjivanja
+  - 2.1.14.7 Otmica
+  - 2.1.14.8 Prinuda
+  - 2.1.14.9 Iznuđivanje iskaza
+  - 2.1.14.10 Zlostavljanje i mučenje
+  - 2.1.14.11 Ugrožavanje sigurnosti
+  - 2.1.14.12 Proganjanje
+  - 2.1.14.13 Narušavanje nepovredivosti stana
+  - 2.1.14.14 Protivzakonito pretresanje
+  - 2.1.14.15 Neovlašćeno otkrivanje tajne
+  - 2.1.14.16 Povreda tajnosti pisma i drugih pošiljki
+  - 2.1.14.17 Neovlašćeno prisluškivanje i snimanje
+  - 2.1.14.18 Neovlašćeno fotografisanje
+  - 2.1.14.19 Neovlašćeno objavljivanje i prikazivanje tuđeg spisa, portreta i snimka
+  - 2.1.14.20 Neovlašćeno prikupljanje ličnih podataka
+  - 2.1.14.21 Povreda prava na podnošenje pravnog sredstva
+  - 2.1.14.22 Povreda slobode govora i javnog istupanja
+  - 2.1.14.23 Sprečavanje štampanja i rasturanja štampanih stvari i emitovanje programa
+  - 2.1.14.24 Sprečavanje objavljivanje odgovora i ispravke
+  - 2.1.14.25 Sprečavanje javnog skupa
+  - 2.1.14.26 Sprečavanje političkog, sindikalnog i drugog udruživanja i delovanja
+  - 2.1.14.27 Gonjenje za krivična dela protiv sloboda i prava čoveka i građanina
+- 2.1.15 Krivična dela protiv izbornih prava
+  - 2.1.15.1 Povreda prava kandidovanja
+  - 2.1.15.2 Povreda prava glasanja
+  - 2.1.15.3 Davanje i primanje mita u vezi sa glasanjem
+  - 2.1.15.4 Zloupotreba prava glasanja
+  - 2.1.15.5 Sastavljanje netačnih biračkih spiskova
+  - 2.1.15.6 Sprečavanje održavanja glasanja
+  - 2.1.15.7 Povreda tajnosti glasanja
+  - 2.1.15.8 Falsifikovanje rezultata glasanja
+  - 2.1.15.9 Uništavanje dokumenata o glasanju
+- 2.1.16 Krivična dela protiv prava po osnovu rada
+  - 2.1.16.1 Povreda prava po osnovu rada i prava iz socijalnog osiguranja
+  - 2.1.16.2 Povreda prava pri zapošljavanju i za vreme nezaposlenosti
+  - 2.1.16.3 Povreda prava na upravljanje
+  - 2.1.16.4 Povreda prava na štrajk
+  - 2.1.16.5 Zloupotreba prava na štrajk
+  - 2.1.16.6 Zloupotreba prava iz socijalnog osiguranja
+  - 2.1.16.7 Nepreduzimanje mera zaštite na radu
+- 2.1.17 Krivična dela protiv časti i ugleda
+  - 2.1.17.1 Uvreda
+  - 2.1.17.2 Kleveta
+  - 2.1.17.3 Iznošenje ličnih i porodičnih prilika
+  - 2.1.17.4 Povreda ugleda Srbije
+  - 2.1.17.5 Povreda ugleda zbog rasne, verske, nacionalne ili druge pripadnosti
+  - 2.1.17.6 Povreda ugleda strane države ili međunarodne organizacije
+  - 2.1.17.7 Nekažnjavanje za krivična dela iz člana 173. do 175.
+  - 2.1.17.8 Gonjenje za krivična dela protiv časti i ugleda
+- 2.1.18 Krivična dela protiv polne slobode
+  - 2.1.18.1 Silovanje
+  - 2.1.18.2 Obljuba nad nemoćnim licem
+  - 2.1.18.3 Obljuba sa detetom
+  - 2.1.18.4 Obljuba zloupotrebom položaja
+  - 2.1.18.5 Nedozvoljene polne radnje
+  - 2.1.18.6 Polno uznemiravanje
+  - 2.1.18.7 Podvođenje i omogućavanje vršenja polnog odnosa
+  - 2.1.18.8 Posredovanje u vršenju prostitucije
+  - 2.1.18.9 Prikazivanje, pribavljanje i posedovanje pornografskog materijala i iskorišćavanje maloletnog lica za pornografiju
+  - 2.1.18.10 Navođenje deteta na prisustvovanje polnim radnjama
+  - 2.1.18.11 Iskorišćavanje računarske mreže ili komunikacije drugim tehničkim sredstvima za izvršenje krivičnih dela protiv polne slobode prema maloletnom licu
+  - 2.1.18.12 Gonjenje za krivična dela protiv polne slobode
+- 2.1.19 Krivična dela protiv braka i porodice
+  - 2.1.19.1 Dvobračnost
+  - 2.1.19.2 Prinudno zaključenje braka
+  - 2.1.19.3 Vanbračna zajednica sa maloletnikom
+  - 2.1.19.4 Oduzimanje maloletnog lica
+  - 2.1.19.5 Promena porodičnog stanja
+  - 2.1.19.6 Zapuštanje i zlostavljanje maloletnog lica
+  - 2.1.19.7 Nasilje u porodici
+    - 2.1.19.7.1 Ako je pri izvršenju dela korišćeno oružje, opasno oruđe ili drugo sredstvo podobno da telo teško povredi ili zdravlje teško naruši
+    - 2.1.19.7.2 Ako je usled izvršenja dela nastupila teška telesna povreda ili teško narušenje zdravlja ili je učinjeno prema maloletnom licu
+    - 2.1.19.7.3 Ako je nastupila smrt člana porodice
+    - 2.1.19.7.4 Ako su prekršene mere zaštite od nasilja u porodici određene na osnovu zakona kojim se uređuju porodični odnosi
+  - 2.1.19.8 Nedavanje izdržavanja
+  - 2.1.19.9 Kršenje porodičnih obaveza
+  - 2.1.19.10 Rodoskrvnuće
+- 2.1.20 Krivična dela protiv intelektualne svojine
+  - 2.1.20.1 Povreda moralnih prava autora i interpretatora
+  - 2.1.20.2 Neovlašćeno iskorišćavanje autorskog dela ili predmeta srodnog prava
+  - 2.1.20.3 Neovlašćeno uklanjanje ili menjanje elektronske informacije o autorskom i srodnim pravima
+  - 2.1.20.4 Povreda pronalazačkog prava
+  - 2.1.20.5 Neovlašćeno korišćenje tuđeg dizajna
+- 2.1.21 Krivična dela protiv imovine
+  - 2.1.21.1 Krađa
+  - 2.1.21.2 Teška krađa
+    - 2.1.21.2.1 Teška krađa obijanjem, provaljivanjem ili savlađivanjem prepreka
+    - 2.1.21.2.2 Teška krađa od strane grupe
+    - 2.1.21.2.3 Teška krađa na naročito opasan ili naročito drzak način
+    - 2.1.21.2.4 Teška krađa od strane lica koje je pri sebi imalo kakvo oružje ili opasno oruđe radi napada ili odbrane
+    - 2.1.21.2.5 Teška krađa za vreme požara, poplave, zemljotresa ili drugog udesa
+    - 2.1.21.2.6 Teška krađa iskorišćavanjem bespomoćnosti ili drugog teškog stanja nekog lica
+    - 2.1.21.2.7 Teška krađa ako vrednost ukradenih stvari prelazi iznos od 450.000 dinara
+    - 2.1.21.2.8 Teška krađa ukradena stvar predstavlja kulturno dobro ili prirodno dobro ili javni uređaj za vodu, kanalizaciju, toplotu, gas, električnu ili drugu energiju ili uređaje sistema javnog saobraćaja i veza
+    - 2.1.21.2.9 Teška krađa ako je delo izvršeno od strane organizovane kriminalne grupe ili ako vrednost ukradenih stvari prelazi 1.500.000 dinara
+  - 2.1.21.3 Razbojnička krađa
+  - 2.1.21.4 Razbojništvo
+  - 2.1.21.5 Utaja
+  - 2.1.21.6 Prevara
+  - 2.1.21.7 Dogovaranje ishoda takmičenja kao posebnog krivičnog dela
+  - 2.1.21.8 Neosnovano dobijanje i korišćenje kredita i druge pogodnosti
+  - 2.1.21.9 Sitna krađa, utaja i prevara
+  - 2.1.21.10 Oduzimanje tuđe stvari
+  - 2.1.21.11 Uništenje i oštećenje tuđe stvari
+  - 2.1.21.12 Neovlašćeno korišćenje tuđeg vozila
+  - 2.1.21.13 Iznuda
+  - 2.1.21.14 Ucena
+  - 2.1.21.15 Zloupotreba poverenja
+  - 2.1.21.16 Zelenaštvo
+  - 2.1.21.17 Protivpravno zauzimanje zemljišta
+  - 2.1.21.18 Protivpravno useljenje
+  - 2.1.21.19 Građenje bez građevinske dozvole
+  - 2.1.21.20 Priključenje objekta koji je izgrađen bez građevinske dozvole
+  - 2.1.21.21 Oštećenje tuđih prava
+  - 2.1.21.22 Prikrivanje
+  - 2.1.21.23 Neovlašćeno iznošenje i unošenje kulturnog dobra
+  - 2.1.21.24 Gonjenje u slučaju kada je učinilac u bliskom odnosu sa oštećenim
+- 2.1.22 Krivična dela protiv privrede
+  - 2.1.22.1 Prevara u obavljanju privredne delatnosti
+  - 2.1.22.2 Prevara u osiguranju
+  - 2.1.22.3 Pronevera u obavljanju privredne delatnosti
+  - 2.1.22.4 Zloupotreba poverenja u obavljanju privredne delatnosti
+  - 2.1.22.5 Falsifikovanje novca
+  - 2.1.22.6 Falsifikovanje hartija od vrednosti
+  - 2.1.22.7 Falsifikovanje i zloupotreba platnih kartica
+  - 2.1.22.8 Falsifikovanje znakova za vrednost
+  - 2.1.22.9 Falsifikovanje znakova, odnosno državnih žigova za obeležavanje robe, merila i predmeta dragocenih metala
+  - 2.1.22.10 Pravljenje, nabavljanje i davanje drugom sredstava za falsifikovanje
+  - 2.1.22.11 Izdavanje čeka i korišćenje platnih kartica bez pokrića
+  - 2.1.22.12 Poreska utaja
+  - 2.1.22.13 Neuplaćivanje poreza po odbitku
+  - 2.1.22.14 Krijumčarenje
+  - 2.1.22.15 Pranje novca
+  - 2.1.22.16 Zloupotreba monopolističkog položaja
+  - 2.1.22.17 Neovlašćena upotreba tuđeg poslovnog imena i druge posebne oznake robe ili usluga
+  - 2.1.22.18 Nesavestan rad u privrednom poslovanju
+  - 2.1.22.19 Zloupotreba položaja odgovornog lica
+  - 2.1.22.20 Zloupotreba u vezi sa javnom nabavkom
+  - 2.1.22.21 Zloupotreba u postupku privatizacije
+  - 2.1.22.22 Zaključenje restriktivnog sporazuma
+  - 2.1.22.23 Primanje mita u obavljanju privredne delatnosti
+  - 2.1.22.24 Davanje mita u obavljanju privredne delatnosti
+  - 2.1.22.25 Prouzrokovanje stečaja
+  - 2.1.22.26 Prouzrokovanje lažnog stečaja
+  - 2.1.22.27 Oštećenje poverilaca
+  - 2.1.22.28 Zloupotreba ovlašćenja u privredi
+  - 2.1.22.29 Narušavanje poslovnog ugleda i kreditne sposobnosti
+  - 2.1.22.30 Odavanje poslovne tajne
+  - 2.1.22.31 Onemogućavanje vršenja kontrole
+  - 2.1.22.32 Nedozvoljena proizvodnja
+  - 2.1.22.33 Nedozvoljena trgovina
+  - 2.1.22.34 Obmanjivanje kupaca
+  - 2.1.22.35 Falsifikovanje znakova odnosno državnih žigova za obeležavanje robe, merila i predmeta od dragocenih metala
+- 2.1.23 Krivična dela protiv zdravlja ljudi
+  - 2.1.23.1 Neovlašćena proizvodnja i stavljanje u promet opojnih droga
+    - 2.1.23.1.1 Uzgajanje maka ili psihoaktivne konoplje ili drugih biljaka iz kojih se dobija opojna droga
+    - 2.1.23.1.2 Ako je delo izvršeno od strane grupe, ili je učinilac organizovao mrežu preprodavaca ili posrednika
+    - 2.1.23.1.3 Ako je delo izvršeno od strane organizovane kriminalne grupe
+    - 2.1.23.1.4 Oslobođenje od kazne učinioca koji otkrije od koga nabavlja opojnu drogu
+    - 2.1.23.1.5 Pravljenje, nabavljanje, posedovanje ili davanje na upotrebu opreme, materijal ili supstance za koje zna da su namenjene za proizvodnju opojnih droga
+  - 2.1.23.2 Neovlašćeno držanje opojnih droga
+  - 2.1.23.3 Omogućavanje uživanja opojnih droga
+  - 2.1.23.4 Nepostupanje po zdravstvenim propisima za vreme epidemije
+  - 2.1.23.5 Prenošenje zarazne bolesti
+  - 2.1.23.6 Prenošenje infekcije HIV virusom
+  - 2.1.23.7 Nesavesno pružanje lekarske pomoći
+  - 2.1.23.8 Protivpravno vršenje medicinskih eksperimenata i ispitivanje leka
+  - 2.1.23.9 Neukazivanje lekarske pomoći
+  - 2.1.23.10 Nadrilekarstvo i nadriapotekarstvo
+  - 2.1.23.11 Nesavesno postupanje pri spravljanju i izdavanju lekova
+  - 2.1.23.12 Proizvodnja i stavljanje u promet škodljivih proizvoda
+  - 2.1.23.13 Nesavesno vršenje pregleda životnih namirnica
+  - 2.1.23.14 Zagađivanje vode za piće i životnih namirnica
+  - 2.1.23.15 Teška dela protiv zdravlja ljudi
+- 2.1.24 Krivična dela protiv životne sredine
+  - 2.1.24.1 Zagađenje životne sredine
+  - 2.1.24.2 Nepreduzimanje mera zaštite životne sredine
+  - 2.1.24.3 Protivpravna izgradnja i stavljanje u pogon objekata i postrojenja koja zagađuju životnu sredinu
+  - 2.1.24.4 Oštećenje objekata i uređaja za zaštitu životne sredine
+  - 2.1.24.5 Oštećenje životne sredine
+  - 2.1.24.6 Uništenje, oštećenje, iznošenje u inostranstvo i unošenje u Srbiju zaštićenog prirodnog dobra
+  - 2.1.24.7 Unošenje opasnih materija u Srbiju i nedozvoljeno prerađivanje, odlaganje i skladištenje opasnih materija
+  - 2.1.24.8 Nedozvoljena izgradnja nuklearnih postrojenja
+  - 2.1.24.9 Povreda prava na informisanje o stanju životne sredine
+  - 2.1.24.10 Ubijanje i zlostavljanje životinja
+  - 2.1.24.11 Prenošenje zaraznih bolesti kod životinja i biljaka
+  - 2.1.24.12 Nesavesno pružanje veterinarske pomoći
+  - 2.1.24.13 Proizvodnja štetnih sredstava za lečenje životinja
+  - 2.1.24.14 Zagađivanje hrane i vode za ishranu, odnosno napajanje životinja
+  - 2.1.24.15 Pustošenje šuma
+  - 2.1.24.16 Šumska krađa
+  - 2.1.24.17 Nezakonit lov
+  - 2.1.24.18 Nezakonit ribolov
+- 2.1.25 Krivična dela protiv opšte sigurnosti ljudi i imovine
+  - 2.1.25.1 Izazivanje opšte opasnosti
+  - 2.1.25.2 Uništenje i oštećenje javnih uređaja
+  - 2.1.25.3 Izazivanje opasnosti neobezbeđenjem mera zaštite na radu
+  - 2.1.25.4 Nepropisno i nepravilno izvođenje građevinskih radova
+  - 2.1.25.5 Oštećenje brana, nasipa i vodoprivrednih objekata
+  - 2.1.25.6 Uništenje, oštećenje i uklanjanje znakova kojima se upozorava na opasnost
+  - 2.1.25.7 Zloupotreba telekomunikacionih znakova
+  - 2.1.25.8 Neotklanjanje opasnosti
+  - 2.1.25.9 Nedozvoljeno postupanje sa eksplozivnim i zapaljivim materijalom
+  - 2.1.25.10 Neovlašćeno pribavljanje i ugrožavanje bezbednosti nuklearnim materijama
+  - 2.1.25.11 Teška dela protiv opšte sigurnosti
+- 2.1.26 Krivična dela protiv bezbednosti javnog saobraćaja
+  - 2.1.26.1 Ugrožavanje javnog saobraćaja
+  - 2.1.26.2 Ugrožavanje saobraćaja opasnom radnjom i opasnim sredstvom
+  - 2.1.26.3 Ugrožavanje bezbednosti vazdušnog saobraćaja
+  - 2.1.26.4 Ugrožavanje bezbednosti vazdušnog saobraćaja nasiljem
+  - 2.1.26.5 Ugrožavanje bezbednosti vazdušnog saobraćaja ili pomorskog saobraćaja ili nepokretne platforme
+  - 2.1.26.6 Otmica vazduhoplova, broda i drugog prevoznog sredstva
+  - 2.1.26.7 Piratstvo
+  - 2.1.26.8 Nesavesno vršenje nadzora nad javnim saobraćajem
+  - 2.1.26.9 Nepružanje pomoći licu povređenom u saobraćajnoj nezgodi
+  - 2.1.26.10 Teška dela protiv bezbednosti javnog saobraćaja
+- 2.1.27 Krivična dela protiv bezbednosti računarskih podataka
+  - 2.1.27.1 Oštećenje računarskih podataka i programa
+  - 2.1.27.2 Računarska sabotaža
+  - 2.1.27.3 Pravljenje i unošenje računarskih virusa
+  - 2.1.27.4 Računarska prevara
+  - 2.1.27.5 Neovlašćeni pristup zaštićenom računaru, računarskoj mreži i elektronskoj obradi podataka
+  - 2.1.27.6 Sprečavanje i ograničavanje pristupa javnoj računarskoj mreži
+  - 2.1.27.7 Neovlašćeno korišćenje računara ili računarske mreže
+  - 2.1.27.8 Pravljenje, nabavljanje i davanje drugom sredstava za izvršenje krivičnih dela protiv bezbednosti računarskih podataka
+- 2.1.28 Krivična dela protiv ustavnog uređenja i bezbednosti države
+  - 2.1.28.1 Ugrožavanje nezavisnosti
+  - 2.1.28.2 Priznavanje kapitulacije ili okupacije
+  - 2.1.28.3 Ugrožavanje teritorijalne celine
+  - 2.1.28.4 Napad na ustavno uređenje
+  - 2.1.28.5 Pozivanje na nasilnu promenu ustavnog uređenja
+  - 2.1.28.6 Ubistvo predstavnika najviših državnih organa
+  - 2.1.28.7 Oružana pobuna
+  - 2.1.28.8 Terorizam
+  - 2.1.28.9 Diverzija
+  - 2.1.28.10 Sabotaža
+  - 2.1.28.11 Špijunaža
+  - 2.1.28.12 Odavanje državne tajne
+  - 2.1.28.13 Izazivanje nacionalne, rasne i verske mržnje i netrpeljivosti
+  - 2.1.28.14 Povreda teritorijalnog suvereniteta
+  - 2.1.28.15 Udruživanje radi protivustavne delatnosti
+  - 2.1.28.16 Pripremanje dela protiv ustavnog uređenja i bezbednosti Srbije
+  - 2.1.28.17 Teška dela protiv ustavnog uređenja i bezbednosti Srbije
+- 2.1.29 Krivična dela protiv državnih organa
+  - 2.1.29.1 Sprečavanje službenog lica u vršenju službene radnje
+  - 2.1.29.2 Napad na službeno lice u vršenju službene dužnosti
+  - 2.1.29.3 Učestvovanje u grupi koja spreči službeno lice u vršenju službene radnje
+  - 2.1.29.4 Pozivanje na otpor
+  - 2.1.29.5 Neučestvovanje u otklanjanju opšte opasnosti
+  - 2.1.29.6 Skidanje i povreda službenog pečata i znaka
+  - 2.1.29.7 Oduzimanje i uništenje službenog pečata i službenog spisa
+  - 2.1.29.8 Lažno predstavljanje
+  - 2.1.29.9 Samovlašće
+- 2.1.30 Krivična dela protiv pravosuđa
+  - 2.1.30.1 Neprijavljivanje pripremanja krivičnog dela
+  - 2.1.30.2 Neprijavljivanje krivičnog dela i učinioca
+  - 2.1.30.3 Pomoć učiniocu posle izvršenog krivičnog dela
+  - 2.1.30.4 Lažno prijavljivanje
+  - 2.1.30.5 Davanje lažnog iskaza
+  - 2.1.30.6 Sprečavanje i ometanje dokazivanja
+  - 2.1.30.7 Ometanje pravde
+  - 2.1.30.8 Napad na advokata
+  - 2.1.30.9 Povreda tajnosti postupka
+  - 2.1.30.10 Pobuna lica lišenih slobode
+  - 2.1.30.11 Bekstvo i omogućavanje bekstva lica lišenog slobode
+  - 2.1.30.12 Neizvršenje sudske odluke
+  - 2.1.30.13 Kršenje zabrane utvrđene merom bezbednosti
+  - 2.1.30.14 Protivzakonito omogućavanje vršenja određenih poziva, funkcija, dužnosti, poslova i delatnosti
+  - 2.1.30.15 Nadripisarstvo
+- 2.1.31 Krivična dela protiv javnog reda i mira
+  - 2.1.31.1 Izazivanje panike i nereda
+  - 2.1.31.2 Nasilničko ponašanje
+    - 2.1.31.2.1 Ako je delo izvršeno u grupi ili je pri izvršenju nekom licu naneta laka telesna povreda ili je došlo do teškog ponižavanja građana
+  - 2.1.31.3 Nasilničko ponašanje na sportskoj priredbi ili javnom skupu
+    - 2.1.31.3.1 Ako je delo izvršeno od strane grupe
+    - 2.1.31.3.2 Odgovornost kolovođe
+    - 2.1.31.3.3 Ako je došlo do nereda u kome je nekom licu naneta teška telesna povreda ili je oštećena imovina veće vrednosti
+    - 2.1.31.3.4 Nepreduzimanje mera obezbeđenja od strane službenog ili odgovornog lica
+  - 2.1.31.4 Dogovor za izvršenje krivičnog dela
+  - 2.1.31.5 Udruživanje radi vršenja krivičnih dela
+  - 2.1.31.6 Zločinačko udruživanje
+  - 2.1.31.7 Izrađivanje i nabavljanje oružja i sredstava namenjenih za izvršenje krivičnog dela
+  - 2.1.31.8 Nedozvoljena proizvodnja, držanje, nošenje i promet oružja i eksplozivnih materija
+    - 2.1.31.8.1 Predmet dela oružje čije držanje građanima nije dozvoljeno
+    - 2.1.31.8.2 Predmet dela veća količina oružja, oružje ili druga sredstva velike razorne moći, ili se delo vrši protivno pravilima međunarodnog prava
+    - 2.1.31.8.3 Neovlašćeno nošenje predmeta dela
+    - 2.1.31.8.4 Neovlašćeno nošenje predmeta dela za čije nabavljanje i držanje se ima odobrenje nadležnog organa
+    - 2.1.31.8.5 Legalizacija oružja
+  - 2.1.31.9 Učestvovanje u grupi koja izvrši krivično delo
+  - 2.1.31.10 Nedozvoljen prelaz državne granice i krijumčarenje ljudi
+  - 2.1.31.11 Omogućavanje zloupotrebe ostvarivanja prava azila u stranoj državi
+  - 2.1.31.12 Zloupotreba znaka za pomoć i znaka za opasnost
+  - 2.1.31.13 Neovlašćeno organizovanje igara na sreću
+  - 2.1.31.14 Neovlašćeno bavljenje određenom delatnošću
+  - 2.1.31.15 Neovlašćeno izvođenje arheoloških radova
+  - 2.1.31.16 Povreda groba
+- 2.1.32 Krivična dela protiv pravnog saobraćaja
+  - 2.1.32.1 Falsifikovanje isprave
+  - 2.1.32.2 Posebni slučajevi falsifikovanja isprave
+  - 2.1.32.3 Falsifikovanje službene isprave
+  - 2.1.32.4 Navođenje na overavanje neistinitog sadržaja
+- 2.1.33 Krivična dela protiv službene dužnosti
+  - 2.1.33.1 Zloupotreba službenog položaja
+  - 2.1.33.2 Kršenje zakona od strane sudije, javnog tužioca i njegovog zamenika
+  - 2.1.33.3 Nesavestan rad u službi
+  - 2.1.33.4 Protivzakonita naplata i isplata
+  - 2.1.33.5 Nenamensko korišćenje budžetskih sredstava
+  - 2.1.33.6 Prevara u službi
+  - 2.1.33.7 Pronevera
+  - 2.1.33.8 Posluga
+  - 2.1.33.9 Trgovina uticajem
+  - 2.1.33.10 Protivzakonito posredovanje
+  - 2.1.33.11 Primanje mita
+  - 2.1.33.12 Davanje mita
+  - 2.1.33.13 Odavanje službene tajne
+- 2.1.34 Krivična dela protiv čovečnosti i drugih dobara zaštićenih međunarodnim pravom
+  - 2.1.34.1 Genocid
+  - 2.1.34.2 Zločin protiv čovečnosti
+  - 2.1.34.3 Ratni zločin protiv civilnog stanovništva
+  - 2.1.34.4 Ratni zločin protiv ranjenika i bolesnika
+  - 2.1.34.5 Ratni zločin protiv ratnih zarobljenika
+  - 2.1.34.6 Organizovanje i podsticanje na izvršenje genocida i ratnih zločina
+  - 2.1.34.7 Upotreba nedozvoljenih sredstava borbe
+  - 2.1.34.8 Nedozvoljena proizvodnja, promet i držanje oružja čija je upotreba zabranjena
+  - 2.1.34.9 Protivpravno ubijanje i ranjavanje neprijatelja
+  - 2.1.34.10 Protivpravno oduzimanje stvari od ubijenih
+  - 2.1.34.11 Povreda parlamentara
+  - 2.1.34.12 Surovo postupanje s ranjenicima, bolesnicima i ratnim zarobljenicima
+  - 2.1.34.13 Neopravdano odlaganje repatrijacije ratnih zarobljenika
+  - 2.1.34.14 Uništavanje kulturnih dobara
+  - 2.1.34.15 Nesprečavanje vršenja krivičnih dela protiv čovečnosti i drugih dobara zaštićenih međunarodnim pravom
+  - 2.1.34.16 Kršenje sankcija uvedenih od strane međunarodnih organizacija
+  - 2.1.34.17 Zloupotreba međunarodnih znakova
+  - 2.1.34.18 Agresivan rat
+  - 2.1.34.19 Učestvovanje u ratu ili oružanom sukobu u stranoj državi
+  - 2.1.34.20 Organizovanje učestvovanja u ratu ili oružanom sukobu u stranoj državi
+  - 2.1.34.21 Rasna i druga diskriminacija
+  - 2.1.34.22 Trgovina ljudima
+  - 2.1.34.23 Trgovina maloletnim licima radi usvojenja
+  - 2.1.34.24 Zasnivanje ropskog odnosa i prevoz lica u ropskom odnosu
+  - 2.1.34.25 Terorizam
+  - 2.1.34.26 Javno podsticanje na izvršenje terorističkih dela
+  - 2.1.34.27 Vrbovanje i obučavanje za vršenje terorističkih dela
+  - 2.1.34.28 Upotreba smrtonosne naprave
+  - 2.1.34.29 Uništenje i oštećenje nuklearnog objekta
+  - 2.1.34.30 Ugrožavanje lica pod međunarodnom zaštitom
+  - 2.1.34.31 Finansiranje terorizma
+  - 2.1.34.32 Terorističko udruživanje
+- 2.1.35 Krivična dela protiv vojske Srbije
+  - 2.1.35.1 Izbegavanje vojne obaveze
+  - 2.1.35.2 Izbegavanje popisa i pregleda
+  - 2.1.35.3 Neizvršavanje materijalne obaveze
+  - 2.1.35.4 Izbegavanje vojne službe onesposobljenjem i obmanom
+  - 2.1.35.5 Protivpravno oslobođenje od vojne službe
+  - 2.1.35.6 Samovoljno odsustvovanje i bekstvo iz vojske Srbije
+  - 2.1.35.7 Neizvršenje i odbijanje izvršenja naređenja
+  - 2.1.35.8 Protivljenje pretpostavljenom
+  - 2.1.35.9 Protivljenje vojnom licu koje vrši posebnu vojnu službu
+  - 2.1.35.10 Prinuda prema vojnom licu u vršenju službene dužnosti
+  - 2.1.35.11 Napad na vojno lice u vršenju vojne službe
+  - 2.1.35.12 Oslobođenje od kazne za dela iz člana 400. do 404.
+  - 2.1.35.13 Zlostavljanje potčinjenog i mlađeg
+  - 2.1.35.14 Povreda posebne vojne službe
+  - 2.1.35.15 Povreda obezbeđenja državne granice
+  - 2.1.35.16 Neistinito službeno izveštavanje
+  - 2.1.35.17 Nepreduzimanje mera za obezbeđenje vojne jedinice
+  - 2.1.35.18 Nesavesna izrada i preuzimanje naoružanja i druge vojne opreme
+  - 2.1.35.19 Nepropisno staranje o poverenom oružju
+  - 2.1.35.20 Protivpravno raspolaganje poverenim oružjem
+  - 2.1.35.21 Krađa oružja i dela borbenog sredstva
+  - 2.1.35.22 Odavanje vojne tajne
+  - 2.1.35.23 Neovlašćen pristup vojnom objektu
+  - 2.1.35.24 Kažnjavanje za krivična dela koja su izvršena za vreme ratnog stanja, oružanog sukoba i vanrednog stanja
+  - 2.1.35.25 Neispunjavanje dužnosti pri sprovođenju mobilizacije
+  - 2.1.35.26 Podrivanje vojne i odbrambene moći
+  - 2.1.35.27 Sprečavanje borbe protiv neprijatelja
+  - 2.1.35.28 Prelazak i predaja neprijatelju
+  - 2.1.35.29 Služba u neprijateljskoj vojsci
+  - 2.1.35.30 Pomaganje neprijatelju
+  - 2.1.35.31 Neispunjenje i napuštanje dužnosti za vreme borbe
+  - 2.1.35.32 Napuštanje položaja protivno naređenju
+  - 2.1.35.33 Napuštanje oštećenog broda i vazduhoplova pre vremena
+  - 2.1.35.34 Slabljenje borbenog morala
+  - 2.1.35.35 Neizveštavanje vojnih organa
+  - 2.1.35.36 Uslovi za izricanje disciplinske kazne, odnosno mere
+  - 2.1.35.37 Krivično delo izvršeno po naređenju pretpostavljenog
+- 2.1.36 Krivična dela iz sporednog krivičnog zakonodavstva
+  - 2.1.36.1 Zakon o poreskom postupku i poreskoj administraciji
+    - 2.1.36.1.1 Nedozvoljeno skladištenje robe
+    - 2.1.36.1.2 Nedozvoljen promet akciznih proizvoda
+  - 2.1.36.2 Zakon o javnom redu i miru
+    - 2.1.36.2.1 Ometanje službenog lica u vršenju službene dužnosti
+
+### 2.2 Organizovani kriminal
+
+### 2.3 Ratni zločin
+
+### 2.4 Krivično procesno pravo
+- 2.4.1 Krivični postupak
+  - 2.4.1.1 Nadležnost i sastav suda
+    - 2.4.1.1.1 Mesna nadležnost
+    - 2.4.1.1.2 Spajanje i razdvajanje krivičnog postupka
+    - 2.4.1.1.3 Prekoračenje nadležnosti
+    - 2.4.1.1.4 Sukob nadležnosti
+  - 2.4.1.2 Izuzeće
+  - 2.4.1.3 Javni tužilac
+    - 2.4.1.3.1 Prava i dužnosti
+    - 2.4.1.3.2 Odustanak od optužbe
+  - 2.4.1.4 Oštećeni, oštećeni kao tužilac i privatni tužilac
+    - 2.4.1.4.1 Prava oštećenog
+    - 2.4.1.4.2 Oštećeni kao tužilac
+    - 2.4.1.4.3 Privatna tužba
+  - 2.4.1.5 Okrivljeni
+    - 2.4.1.5.1 Prava okrivljenog
+    - 2.4.1.5.2 Prava uhapšenog
+  - 2.4.1.6 Branilac
+    - 2.4.1.6.1 Obavezna odbrana
+    - 2.4.1.6.2 Izabrani branilac
+    - 2.4.1.6.3 Branilac po službenoj dužnosti
+  - 2.4.1.7 Dokazi
+    - 2.4.1.7.1 Ocena dokaza i utvrđivanje činjenica
+    - 2.4.1.7.2 Nezakoniti dokazi
+      - 2.4.1.7.2.1 Zabrana mučenja, nečovečnog postupanja i iznude
+      - 2.4.1.7.2.2 Saslušanje okrivljenog
+      - 2.4.1.7.2.3 Prepoznavanje lica ili predmeta
+      - 2.4.1.7.2.4 Ispitivanje svedoka
+        - 2.4.1.7.2.4.1 Oslobođenje i isključenje od dužnosti svedočenje
+        - 2.4.1.7.2.4.2 Zaštita svedoka
+          - 2.4.1.7.2.4.2.1 Posebno osetljivi svedoci
+          - 2.4.1.7.2.4.2.2 Zaštićeni svedoci
+      - 2.4.1.7.2.5 Veštačenje
+        - 2.4.1.7.2.5.1 Stručni savetnik
+        - 2.4.1.7.2.5.2 Finansijski forenzičar
+      - 2.4.1.7.2.6 Uviđaj
+        - 2.4.1.7.2.6.1 Lica
+        - 2.4.1.7.2.6.2 Stvari
+        - 2.4.1.7.2.6.3 Mesta
+      - 2.4.1.7.2.7 Rekonstrukcija događaja
+      - 2.4.1.7.2.8 Isprava
+      - 2.4.1.7.2.9 Uzimanje uzoraka
+      - 2.4.1.7.2.10 Provera računa i sumnjivih transakcija
+      - 2.4.1.7.2.11 Privremeno oduzimanje predmeta
+      - 2.4.1.7.2.12 Pretresanje
+        - 2.4.1.7.2.12.1 Na osnovu naredbe
+        - 2.4.1.7.2.12.2 Pretresanje bez naredbe
+        - 2.4.1.7.2.12.3 Pretresanje stana
+        - 2.4.1.7.2.12.4 Pretresanje lica
+    - 2.4.1.7.3 Posebne dokazne radnje
+      - 2.4.1.7.3.1 Uslovi za određivanje
+      - 2.4.1.7.3.2 Slučajni nalaz
+      - 2.4.1.7.3.3 Tajni nadzor komunikacije
+      - 2.4.1.7.3.4 Tajno praćenje i snimanje
+      - 2.4.1.7.3.5 Simulovani poslovi
+      - 2.4.1.7.3.6 Računarsko pretraživanje podataka
+      - 2.4.1.7.3.7 Kontrolisana isporuka
+      - 2.4.1.7.3.8 Prikriveni islednik
+      - 2.4.1.7.3.9 Izdvajanje zapisnika i obaveštenja
+  - 2.4.1.8 Mere za obezbeđenje prisustva okrivljenog i za nesmetano vođenje krivičnog postupka
+    - 2.4.1.8.1 Poziv i dovođenje
+    - 2.4.1.8.2 Zabrana prilaženja, sastajanja ili komuniciranja sa određenim licem
+    - 2.4.1.8.3 Zabrana napuštanja boravišta
+    - 2.4.1.8.4 Jemstvo
+    - 2.4.1.8.5 Zabrana napuštanja stana
+    - 2.4.1.8.6 Pritvor
+      - 2.4.1.8.6.1 Razlozi za određivanje pritvora
+      - 2.4.1.8.6.2 Pritvor u istrazi
+      - 2.4.1.8.6.3 Pritvor nakon podizanja optužnice
+  - 2.4.1.9 Rokovi
+    - 2.4.1.9.1 Povraćaj u pređašnje stanje
+  - 2.4.1.10 Podnesci i zapisnici
+  - 2.4.1.11 Dostavljanje pismena i razmatranje spisa
+  - 2.4.1.12 Imovinskopravni zahtevi
+    - 2.4.1.12.1 Podnošenje
+    - 2.4.1.12.2 Odlučivanje
+    - 2.4.1.12.3 Povrat stvari oštećenom
+  - 2.4.1.13 Troškovi postupka
+  - 2.4.1.14 Donošenje, saopštavanje i izvršenje odluka
+  - 2.4.1.15 Predistražni postupak
+    - 2.4.1.15.1 Postupanje javnog tužioca po krivičnoj prijavi
+    - 2.4.1.15.2 Odlaganje krivičnog gonjenja
+    - 2.4.1.15.3 Odbacivanje krivične prijave
+    - 2.4.1.15.4 Ovlašćenja policije
+    - 2.4.1.15.5 Saslušanje osumnjičenog
+    - 2.4.1.15.6 Saslušanje uhapšenog
+  - 2.4.1.16 Istraga
+    - 2.4.1.16.1 Prisustvo dokaznim radnjama
+    - 2.4.1.16.2 Obustava istrage
+    - 2.4.1.16.3 Prigovor osumnjičenog i branioca
+  - 2.4.1.17 Sporazumi javnog tužioca i okrivljenog
+    - 2.4.1.17.1 Sporazum o priznanju krivičnog dela
+    - 2.4.1.17.2 Sporazum o svedočenju okrivljenog
+    - 2.4.1.17.3 Sporazum o svedočenju osuđenog
+  - 2.4.1.18 Optuženje
+    - 2.4.1.18.1 Ispitivanje optužnice
+    - 2.4.1.18.2 Obustava
+    - 2.4.1.18.3 Odbijanje optužbe
+    - 2.4.1.18.4 Potvrđivanje optužnice
+  - 2.4.1.19 Glavni pretres
+    - 2.4.1.19.1 Pripremno ročište
+    - 2.4.1.19.2 Pretpostavke za održavanje glavnog pretresa
+    - 2.4.1.19.3 Javnost glavnog pretresa
+    - 2.4.1.19.4 Mere za održavanje reda
+    - 2.4.1.19.5 Suđenje u odsustvu
+    - 2.4.1.19.6 Izvođenje dokaza van glavnog pretresa
+    - 2.4.1.19.7 Upoznavanje sa sadržinom pismena i snimaka
+    - 2.4.1.19.8 Upoznavanje sa sadržinom zapisnika o iskazima
+    - 2.4.1.19.9 Izmena ili podnošenje nove optužnice
+    - 2.4.1.19.10 Izdvajanje nezakonitih dokaza
+    - 2.4.1.19.11 Proširenje optužnice
+  - 2.4.1.20 Presuda
+    - 2.4.1.20.1 Odnos presude i optužbe
+    - 2.4.1.20.2 Odbijajuća presuda
+    - 2.4.1.20.3 Oslobađajuća presuda
+    - 2.4.1.20.4 Osuđujuća presuda
+    - 2.4.1.20.5 Sadržaj pisano izrađene presude
+  - 2.4.1.21 Pravni lekovi
+    - 2.4.1.21.1 Redovan pravni lek – žalba
+      - 2.4.1.21.1.1 Odricanje i odustanak od žalbe
+      - 2.4.1.21.1.2 Bitne povrede odredaba krivičnog postupka
+        - 2.4.1.21.1.2.1 Okolnosti koje trajno isključuju krivično gonjenje
+          - 2.4.1.21.1.2.1.1 Zastarelost
+          - 2.4.1.21.1.2.1.2 Amnestija ili pomilovanje
+          - 2.4.1.21.1.2.1.3 Pravnosnažno presuđena stvar
+          - 2.4.1.21.1.2.1.4 Druge okolnosti
+        - 2.4.1.21.1.2.2 Apsolutno bitne povrede odredaba krivičnog postupka
+          - 2.4.1.21.1.2.2.1 Stvarno nenadležni sud
+          - 2.4.1.21.1.2.2.2 Nepropisno sastavljen sud
+          - 2.4.1.21.1.2.2.3 Obaveza izuzeća
+          - 2.4.1.21.1.2.2.4 Obavezno prisustvo lica na glavnom pretresu
+          - 2.4.1.21.1.2.2.5 Upotreba jezika
+          - 2.4.1.21.1.2.2.6 Isključenje javnosti
+          - 2.4.1.21.1.2.2.7 Postojanje optužbe ovlašćenog tužioca
+          - 2.4.1.21.1.2.2.8 Presudom nije potpuno rešen predmet optužbe
+          - 2.4.1.21.1.2.2.9 Prekoračenje optužbe
+          - 2.4.1.21.1.2.2.10 Zabrana preinačenja na štetu optuženog
+          - 2.4.1.21.1.2.2.11 Izreka presude nerazumljiva
+        - 2.4.1.21.1.2.3 Relativne povrede odredaba krivičnog postupka
+          - 2.4.1.21.1.2.3.1 Nezakonit dokaz
+          - 2.4.1.21.1.2.3.2 Protivrečnost u izreci ili razlozima
+          - 2.4.1.21.1.2.3.3 Nepravilna primena zakonika
+      - 2.4.1.21.1.3 Povrede krivičnog zakona
+        - 2.4.1.21.1.3.1 Nepostojanje elemenata krivičnog dela
+        - 2.4.1.21.1.3.2 Pogrešna primena zakona
+        - 2.4.1.21.1.3.3 Povreda zakona u pogledu odluke o krivičnoj sankciji, o oduzimanju imovinske koristi ili o opozivanju uslovnog otpusta
+        - 2.4.1.21.1.3.4 Povreda odredaba o uračunavanju lišenja slobode
+      - 2.4.1.21.1.4 Pogrešno ili nepotpuno utvrđeno činjenično stanje
+      - 2.4.1.21.1.5 Nepravilna odluka o krivičnoj sankciji
+      - 2.4.1.21.1.6 Nepravilna odluka o imovinskopravnom zahtevu
+      - 2.4.1.21.1.7 Nepravilna odluka o oduzimanju imovine proistekle iz krivičnog dela
+      - 2.4.1.21.1.8 Nepravilna odluka o troškovima krivičnog postupka
+      - 2.4.1.21.1.9 Postupanje prvostepenog suda po žalbi
+      - 2.4.1.21.1.10 Postupanje drugostepenog suda po žalbi
+      - 2.4.1.21.1.11 Odbacivanje žalbe
+      - 2.4.1.21.1.12 Pretres pred drugostepenim sudom
+      - 2.4.1.21.1.13 Granice ispitivanja prvostepene presude
+      - 2.4.1.21.1.14 Privilegija združivanja
+      - 2.4.1.21.1.15 Odluke drugostepenog suda
+      - 2.4.1.21.1.16 Žalba protiv drugostepene presude
+      - 2.4.1.21.1.17 Žalba protiv rešenja
+    - 2.4.1.21.2 Vanredni pravni lekovi
+      - 2.4.1.21.2.1 Ponavljanje postupka
+      - 2.4.1.21.2.2 Zahtev za zaštitu zakonitosti
+      - 2.4.1.21.2.3 Odbačaj zahteva za zaštitu zakonitosti
+        - 2.4.1.21.2.3.1 Nepravnosnažna odluka
+        - 2.4.1.21.2.3.2 Odluka Vrhovnog kasacionog suda
+        - 2.4.1.21.2.3.3 Neovlašćeno lice
+        - 2.4.1.21.2.3.4 Branilac u svoju korist
+        - 2.4.1.21.2.3.5 Branilac na štetu okrivljenog
+        - 2.4.1.21.2.3.6 Okrivljeni lično
+        - 2.4.1.21.2.3.7 Odustanak od zahteva
+        - 2.4.1.21.2.3.8 Nema propisan sadržaj
+        - 2.4.1.21.2.3.9 Neblagovremen
+        - 2.4.1.21.2.3.10 Nije korišćen redovni pravni lek
+        - 2.4.1.21.2.3.11 Nedozvoljeni razlozi
+        - 2.4.1.21.2.3.12 Pogrešno ili nepotpuno utvrđeno činjenično stanje
+        - 2.4.1.21.2.3.13 Povreda nije od značaja za pravilnu ili ujednačenu primenu prava
+  - 2.4.1.22 Odbijanje zahteva za zaštitu zakonitosti
+  - 2.4.1.23 Skraćeni postupak
+    - 2.4.1.23.1 Pritvor
+    - 2.4.1.23.2 Postupanje po privatnoj tužbi
+    - 2.4.1.23.3 Suđenje bez prisustva okrivljenog
+    - 2.4.1.23.4 Ročište za izricanje krivične sankcije
+  - 2.4.1.24 Postupci za izricanje mera bezbednosti
+  - 2.4.1.25 Postupak za oduzimanje imovinske koristi
+  - 2.4.1.26 Postupci za preinačenje pravnosnažne presude
+  - 2.4.1.27 Postupci za ostvarivanje prava osuđenog
+    - 2.4.1.27.1 Puštanje na uslovni otpust
+    - 2.4.1.27.2 Zakonska rehabilitacija
+    - 2.4.1.27.3 Sudska rehabilitacija
+    - 2.4.1.27.4 Prestanak mera bezbednosti
+  - 2.4.1.28 Postupak za ostvarivanje prava lica neosnovano lišenog slobode ili neosnovano osuđen
+  - 2.4.1.29 Postupci za izdavanje poternice ili objave
+
+### 2.5 Prekršajno pravo
+- 2.5.1 Prekršajno materijalno pravo
+  - 2.5.1.1 Osnovne odredbe
+    - 2.5.1.1.1 Pojam prekršaja
+    - 2.5.1.1.2 Vremensko važenje propisa
+    - 2.5.1.1.3 Zabrana ponovnog suđenja u istoj stvari
+  - 2.5.1.2 Izvršenje prekršaja
+    - 2.5.1.2.1 Vreme i mesto prekršaja
+    - 2.5.1.2.2 Nužna odbrana
+    - 2.5.1.2.3 Krajnja nužda
+    - 2.5.1.2.4 Sila i pretnja
+    - 2.5.1.2.5 Pokušaj
+  - 2.5.1.3 Odgovornost za prekršaj
+    - 2.5.1.3.1 Odgovornost fizičkog lica
+    - 2.5.1.3.2 Odgovornost pravnog lica
+    - 2.5.1.3.3 Odgovornost preduzetnika
+    - 2.5.1.3.4 Neuračunljivost
+    - 2.5.1.3.5 Nehat i umišljaj
+    - 2.5.1.3.6 Stvarna zabluda
+    - 2.5.1.3.7 Pravna zabluda
+    - 2.5.1.3.8 Saizvršilaštvo
+    - 2.5.1.3.9 Podstrekavanje
+    - 2.5.1.3.10 Pomaganje
+  - 2.5.1.4 Prekršajne sankcije
+    - 2.5.1.4.1 Kazne
+      - 2.5.1.4.1.1 Kazna zatvora
+      - 2.5.1.4.1.2 Rad u javnom interesu
+      - 2.5.1.4.1.3 Novčana kazna
+      - 2.5.1.4.1.4 Kazneni poeni
+      - 2.5.1.4.1.5 Opomena
+      - 2.5.1.4.1.6 Sticaj prekršaja
+      - 2.5.1.4.1.7 Prekršaj u produženom trajanju
+    - 2.5.1.4.2 Zaštitne mere
+  - 2.5.1.5 Prekršaj maloletnog lica
+    - 2.5.1.5.1 Odgovornost maloletnika za prekršaj
+    - 2.5.1.5.2 Odgovornost roditelja, usvojitelja, staratelja ili hranitelja
+    - 2.5.1.5.3 Prekršajne sankcije prema maloletnicima
+  - 2.5.1.6 Zastarelost
+    - 2.5.1.6.1 Zastarelost pokretanja i vođenja prekršajnog postupka
+    - 2.5.1.6.2 Zastarelost izvršenja kazne i zaštitne mere
+- 2.5.2 Prekršajno procesno pravo
+  - 2.5.2.1 Osnovna načela prekršajnog postupka
+  - 2.5.2.2 Organi nadležni za vođenje prekršajnog postupka
+  - 2.5.2.3 Izuzeće
+  - 2.5.2.4 Okrivljeni
+    - 2.5.2.4.1 Pravo na branioca
+    - 2.5.2.4.2 Branilac okrivljenog
+    - 2.5.2.4.3 Dostavljanje pismena braniocu
+    - 2.5.2.4.4 Oštećeni
+    - 2.5.2.4.5 Javni tužilac i drugi organi ovlašćeni za podnošenje zahteva za pokretanje prekršajnog postupka
+  - 2.5.2.5 Rokovi i vraćanje u pređašnje stanje
+  - 2.5.2.6 Troškovi prekršajnog postupka
+  - 2.5.2.7 Imovinskopravni zahtev
+  - 2.5.2.8 Dokazivanje
+  - 2.5.2.9 Upotreba jezika u prekršajnom postupku
+  - 2.5.2.10 Pokretanje prekršajnog postupka
+  - 2.5.2.11 Mere za obezbeđenje prisustva okrivljenog
+  - 2.5.2.12 Saslušanje okrivljenog
+  - 2.5.2.13 Pisana odbrana
+  - 2.5.2.14 Saslušanje svedoka
+  - 2.5.2.15 Uviđaj i veštačenje
+  - 2.5.2.16 Pretresanje prostorija i lica
+  - 2.5.2.17 Sporazum o priznavanju prekršaja
+  - 2.5.2.18 Pretres
+  - 2.5.2.19 Prekid postupka
+  - 2.5.2.20 Presuda i druge odluke
+  - 2.5.2.21 Redovni pravni lek - žalba
+  - 2.5.2.22 Vanredni pravni lekovi
+    - 2.5.2.22.1 Zahtev za ponavljanje prekršajnog postupka
+    - 2.5.2.22.2 Zahtev za zaštitu zakonitosti
+      - 2.5.2.22.2.1 Podnošenje zahteva za zaštitu zakonitosti
+  - 2.5.2.23 Postupak prema maloletnicima
+  - 2.5.2.24 Naknada štete i vraćanje novčanog iznosa zbog neopravdanog kažnjavanja
+  - 2.5.2.25 Vrste prekršaja
+    - 2.5.2.25.1 Prekršaji javnog reda i mira
+    - 2.5.2.25.2 Saobraćajni prekršaji
+    - 2.5.2.25.3 Prekršaji javne bezbednosti
+    - 2.5.2.25.4 Prekršaji u privredi
+    - 2.5.2.25.5 Finansijski i carinski prekršaji
+    - 2.5.2.25.6 Prekršaji u oblasti rada, radnih odnosa i zaštite na radu
+    - 2.5.2.25.7 Prekršaji u oblasti zaštite životne sredine
+    - 2.5.2.25.8 Prekršaji u oblasti informisanja
+    - 2.5.2.25.9 Prekršaji u oblasti ugostiteljstva i turizma
+    - 2.5.2.25.10 Prekršaji javnog okupljanja
+    - 2.5.2.25.11 Ostali prekršaji
+
+### 2.6 Maloletnici i krivično pravna zaštita maloletnih lica
+- 2.6.1 Materijalno pravo
+  - 2.6.1.1 Vaspitni nalozi
+  - 2.6.1.2 Krivične sankcije
+    - 2.6.1.2.1 Vaspitne mere
+      - 2.6.1.2.1.1 Sudski ukor
+      - 2.6.1.2.1.2 Posebne obaveze
+      - 2.6.1.2.1.3 Pojačan nadzor od strane roditelja, usvojioca ili staraoca
+      - 2.6.1.2.1.4 Pojačan nadzor u drugoj porodici
+      - 2.6.1.2.1.5 Pojačan nadzor od strane organa starateljstva
+      - 2.6.1.2.1.6 Pojačan nadzor uz dnevni boravak u odgovarajućoj ustanovi za vaspitavanje i obrazovanje maloletnika
+      - 2.6.1.2.1.7 Posebne obaveze uz mere pojačanog nadzora
+      - 2.6.1.2.1.8 Upućivanje u vaspitnu ustanovu
+      - 2.6.1.2.1.9 Upućivanje u vaspitno-popravni dom
+      - 2.6.1.2.1.10 Uslovni otpust kod upućivanja u vaspitnu ustanovu i vaspitno-popravni dom
+      - 2.6.1.2.1.11 Upućivanje u posebnu ustanovu za lečenje i osposobljavanje
+      - 2.6.1.2.1.12 Obustava izvršenja i zamena izrečene vaspitne mere drugom vaspitnom merom
+      - 2.6.1.2.1.13 Ponovno odlučivanje o vaspitnim merama
+      - 2.6.1.2.1.14 Izricanje vaspitne mere za krivična dela u sticaju
+    - 2.6.1.2.2 Kazna maloletničkog zatvora
+      - 2.6.1.2.2.1 Uslovni otpust kod kazne maloletničkog zatvora
+      - 2.6.1.2.2.2 Zastarelost izvršenja kazne maloletničkog zatvora
+  - 2.6.1.3 Primena mera bezbednosti
+  - 2.6.1.4 Primena odredaba o maloletnicima na punoletna lica
+    - 2.6.1.4.1 Izricanje krivičnih sankcija punoletnim licima za dela koja su učinila kao maloletnici
+    - 2.6.1.4.2 Izricanje vaspitnih mera mlađim punoletnim licima
+- 2.6.2 Krivični postupak
+  - 2.6.2.1 Pokretanje postupka
+  - 2.6.2.2 Pripremni postupak
+  - 2.6.2.3 Postupak pred većem za maloletnike
+  - 2.6.2.4 Pravni lekovi
+  - 2.6.2.5 Odluke drugostepenog suda
+  - 2.6.2.6 Obustavljanje izvršenja i izmena odluke o vaspitnim merama
+- 2.6.3 Izvršenje krivičnih sankcija
+  - 2.6.3.1 Izvršenje zavodskih mera
+  - 2.6.3.2 Izvršenje kazne maloletničkog zatvora
+  - 2.6.3.3 Posebne odredbe o izvršenju mera bezbednosti
+
+### 2.7 Oduzimanje imovine proistekle iz krivičnog dela
+- 2.7.1 Privremeno oduzimanje
+- 2.7.2 Trajno oduzimanje
+
+### 2.8 Odgovornost pravnih lica
+- 2.8.1 Za krivična dela
+- 2.8.2 Za privredne prestupe
+
+### 2.9 Međunarodna pravna pomoć u krivičnim stvarima
+- 2.9.1 Izručenje okrivljenog ili osuđenog
+- 2.9.2 Preuzimanje i ustupanje krivičnog gonjenja
+- 2.9.3 Izvršenje krivične presude
+- 2.9.4 Ostali oblici međunarodne pravne pomoći
+
+### 2.10 Međunarodno krivično pravo
+
+---
+
+## 3. Građansko pravo
+
+### 3.1 Građansko materijalno pravo
+- 3.1.1 Stvarno pravo
+  - 3.1.1.1 Pravo svojine
+    - 3.1.1.1.1 Javna svojina, državna svojina
+    - 3.1.1.1.2 Privatna svojina
+    - 3.1.1.1.3 Zadružna svojina
+    - 3.1.1.1.4 Društvena svojina
+  - 3.1.1.2 Predmet prava svojine
+    - 3.1.1.2.1 Pokretne stvari
+    - 3.1.1.2.2 Nepokretne stvari
+    - 3.1.1.2.3 Poljoprivredno zemljište
+    - 3.1.1.2.4 Građevinsko zemljište
+  - 3.1.1.3 Sticanje svojine
+    - 3.1.1.3.1 Pravnim poslom
+    - 3.1.1.3.2 Odlukom državnog organa
+    - 3.1.1.3.3 Po osnovu zakona
+    - 3.1.1.3.4 Nasleđivanjem
+    - 3.1.1.3.5 Građenjem
+    - 3.1.1.3.6 Održajem
+    - 3.1.1.3.7 Sticanjem od nevlasnika
+    - 3.1.1.3.8 Ostalo
+  - 3.1.1.4 Zaštita svojine
+    - 3.1.1.4.1 Povraćaj stvari
+    - 3.1.1.4.2 Zaštita pretpostavljenog vlasnika
+    - 3.1.1.4.3 Zaštita od ometanja prava svojine
+  - 3.1.1.5 Prestanak prava svojine
+  - 3.1.1.6 Susvojina
+  - 3.1.1.7 Zajednička svojina
+    - 3.1.1.7.1 Etažna
+  - 3.1.1.8 Državina i zaštita državine
+  - 3.1.1.9 Službenost i vrste službenosti
+    - 3.1.1.9.1 Sticanje stvarne službenosti
+      - 3.1.1.9.1.1 Pravnim poslom
+      - 3.1.1.9.1.2 Odlukom državnog organa
+      - 3.1.1.9.1.3 Održajem
+    - 3.1.1.9.2 Prestanak stvarne službenosti
+    - 3.1.1.9.3 Sticanje i prestanak lične službenosti
+  - 3.1.1.10 Susedsko pravo
+  - 3.1.1.11 Stvarni tereti
+  - 3.1.1.12 Pravo preče kupovine
+    - 3.1.1.12.1 Zakonsko pravo preče kupovine
+    - 3.1.1.12.2 Ugovorno pravo preče kupovine
+  - 3.1.1.13 Gradsko građevinsko zemljište
+  - 3.1.1.14 Eksproprijacija
+  - 3.1.1.15 Faktička eksproprijacija
+  - 3.1.1.16 Nacionalizacija
+  - 3.1.1.17 Hipoteka
+  - 3.1.1.18 Zaloga na pokretnim stvarima
+  - 3.1.1.19 Arondacija
+  - 3.1.1.20 Komasacija
+  - 3.1.1.21 Konfiskacija
+  - 3.1.1.22 Pravo korišćenja
+  - 3.1.1.23 Grobna mesta i grobnice
+- 3.1.2 Obligaciono pravo
+  - 3.1.2.1 Obligacioni odnosi – osnovna načela
+  - 3.1.2.2 Nastanak obaveza
+    - 3.1.2.2.1 Ugovor
+    - 3.1.2.2.2 Zaključenje ugovora
+    - 3.1.2.2.3 Saglasnost volja
+      - 3.1.2.2.3.1 Ponuda za zaključenje ugovora
+    - 3.1.2.2.4 Predmet
+    - 3.1.2.2.5 Osnov
+    - 3.1.2.2.6 Mane volje
+    - 3.1.2.2.7 Forma
+      - 3.1.2.2.7.1 Konvalidacija
+      - 3.1.2.2.7.2 Konverzija
+    - 3.1.2.2.8 Uslov i rok
+    - 3.1.2.2.9 Kapara i odustanica
+    - 3.1.2.2.10 Zastupanje
+    - 3.1.2.2.11 Predugovor
+    - 3.1.2.2.12 Tumačenje ugovora
+  - 3.1.2.3 Nevažnost ugovora
+    - 3.1.2.3.1 Nevažeći ugovori
+    - 3.1.2.3.2 Ništavi ugovori
+    - 3.1.2.3.3 Prividni ugovori
+    - 3.1.2.3.4 Rušljivi ugovori
+  - 3.1.2.4 Dvostrani ugovori
+    - 3.1.2.4.1 Odgovornost za materijalne i pravne nedostatke ispunjenja
+    - 3.1.2.4.2 Neispunjenje ugovora
+    - 3.1.2.4.3 Raskidanje ugovora zbog neispunjenja
+    - 3.1.2.4.4 Raskidanje ili izmena ugovora zbog promenjenih okolnosti
+    - 3.1.2.4.5 Prekomerno oštećenje
+    - 3.1.2.4.6 Zelenaški ugovor
+    - 3.1.2.4.7 Ustupanje ugovora
+    - 3.1.2.4.8 Dejstvo ugovora
+    - 3.1.2.4.9 Ugovor u korist trećeg lica
+    - 3.1.2.4.10 Ugovor po pristupu
+  - 3.1.2.5 Ortaklук
+  - 3.1.2.6 Poklon
+  - 3.1.2.7 Prouzrokovanje štete
+    - 3.1.2.7.1 Odgovornost za štetu
+      - 3.1.2.7.1.1 Subjektivna (Odgovornost po osnovu krivice)
+        - 3.1.2.7.1.1.1 Isključenje deliktne odgovornosti
+          - 3.1.2.7.1.1.1.1 Pristanak oštećenog
+          - 3.1.2.7.1.1.1.2 Nužna odbrana i krajnja nužda
+          - 3.1.2.7.1.1.1.3 Dozvoljena samopomoć
+          - 3.1.2.7.1.1.1.4 Viša sila
+          - 3.1.2.7.1.1.1.5 Slučaj
+          - 3.1.2.7.1.1.1.6 Isključiva radnja oštećenog ili trećeg lica
+      - 3.1.2.7.1.2 Odgovornost za drugog
+        - 3.1.2.7.1.2.1 Duševno bolesni i zaostali u umnom razvoju
+        - 3.1.2.7.1.2.2 Odgovornost roditelja
+        - 3.1.2.7.1.2.3 Odgovornost drugog za maloletnika
+        - 3.1.2.7.1.2.4 Posebna odgovornost roditelja
+        - 3.1.2.7.1.2.5 Odgovornost po osnovu pravičnosti
+      - 3.1.2.7.1.3 Odgovornost preduzeća i drugih pravnih lica prema trećem
+      - 3.1.2.7.1.4 Odgovornost za štetu od opasne stvari i opasne delatnosti
+        - 3.1.2.7.1.4.1 Odgovornost od upotrebe motornih vozila
+        - 3.1.2.7.1.4.2 Stvari sa nedostatkom
+      - 3.1.2.7.1.5 Posebni slučajevi odgovornosti
+        - 3.1.2.7.1.5.1 Odgovornost usled terorističkih akata, javnih demonstracija ili manifestacija
+        - 3.1.2.7.1.5.2 Odgovornost organizatora priredbi
+        - 3.1.2.7.1.5.3 Odgovornost zbog uskraćivanja neophodne pomoći
+        - 3.1.2.7.1.5.4 Odgovornost u vezi sa obavezom zaključenja ugovora
+        - 3.1.2.7.1.5.5 Odgovornost u vezi sa vršenjem poslova od opšteg interesa
+        - 3.1.2.7.1.5.6 Odgovornost garantnog fonda
+    - 3.1.2.7.2 Naknada štete
+    - 3.1.2.7.3 Naknada materijalne štete
+      - 3.1.2.7.3.1 Obim naknade
+      - 3.1.2.7.3.2 Obična šteta i izmakla korist
+      - 3.1.2.7.3.3 Potpuna naknada
+      - 3.1.2.7.3.4 Podeljena odgovornost
+      - 3.1.2.7.3.5 Snižеnje naknade
+      - 3.1.2.7.3.6 Zbog smrti, telesne povrede ili oštećenja zdravlja
+        - 3.1.2.7.3.6.1 Novčana renta
+      - 3.1.2.7.3.7 Zbog povrede časti i širenja neistinitih navoda
+    - 3.1.2.7.4 Naknada nematerijalne štete
+      - 3.1.2.7.4.1 Fizički bolovi
+      - 3.1.2.7.4.2 Strah
+      - 3.1.2.7.4.3 Umanjena životna aktivnost
+      - 3.1.2.7.4.4 Naruženost
+      - 3.1.2.7.4.5 Povreda časti i ugleda
+      - 3.1.2.7.4.6 Povrede prava ličnosti
+      - 3.1.2.7.4.7 Povreda slobode
+      - 3.1.2.7.4.8 U slučaju smrti ili teškog invaliditeta
+  - 3.1.2.8 Solidarna odgovornost više lica za istu štetu i regres
+  - 3.1.2.9 Sticanje bez osnova
+  - 3.1.2.10 Poslovodstvo bez naloga
+  - 3.1.2.11 Jednostrana izjava volje
+    - 3.1.2.11.1 Javno obećanje nagrade
+    - 3.1.2.11.2 Hartije od vrednosti
+      - 3.1.2.11.2.1 Ostvarivanje prava
+      - 3.1.2.11.2.2 Prenos
+      - 3.1.2.11.2.3 Promene
+      - 3.1.2.11.2.4 Deponovanje
+      - 3.1.2.11.2.5 Menica
+      - 3.1.2.11.2.6 Ček
+  - 3.1.2.12 Dejstva obaveze
+    - 3.1.2.12.1 Prava i obaveze
+      - 3.1.2.12.1.1 Naknada štete
+      - 3.1.2.12.1.2 Ugovorna kazna
+      - 3.1.2.12.1.3 Zatezna kamata
+      - 3.1.2.12.1.4 Pobijanje dužnikovih pravnih radnji
+      - 3.1.2.12.1.5 Pravo zadržavanja
+      - 3.1.2.12.1.6 Sudski penali
+  - 3.1.2.13 Prestanak obaveza
+    - 3.1.2.13.1 Ispunjenje
+    - 3.1.2.13.2 Docnja
+    - 3.1.2.13.3 Prebijanje – kompenzacija
+    - 3.1.2.13.4 Otpuštanje duga
+    - 3.1.2.13.5 Prenov – novacija
+    - 3.1.2.13.6 Sjedinjenje – konfuzija
+    - 3.1.2.13.7 Nemogućnost ispunjenja
+    - 3.1.2.13.8 Protek vremena i otkaz
+    - 3.1.2.13.9 Smrt
+  - 3.1.2.14 Zastarelost
+    - 3.1.2.14.1 Vreme potrebno za zastarelost
+    - 3.1.2.14.2 Zastoj
+    - 3.1.2.14.3 Prekid
+  - 3.1.2.15 Vrste obaveza
+    - 3.1.2.15.1 Alternativne obaveze
+    - 3.1.2.15.2 Fakultativne obaveze i potraživanja
+    - 3.1.2.15.3 Deljive obaveze
+    - 3.1.2.15.4 Nedeljive obaveze
+    - 3.1.2.15.5 Solidarne obaveze
+  - 3.1.2.16 Promena poverioca ili dužnika
+    - 3.1.2.16.1 Ustupanje potraživanja (cesija)
+    - 3.1.2.16.2 Promena dužnika
+      - 3.1.2.16.2.1 Preuzimanje duga
+      - 3.1.2.16.2.2 Pristupanje dugu
+      - 3.1.2.16.2.3 Preuzimanje ispunjenja
+  - 3.1.2.17 Prodaja
+    - 3.1.2.17.1 Odgovornost za materijalne i pravne nedostatke
+    - 3.1.2.17.2 Garancija za ispravno funkcionisanje prodate stvari
+  - 3.1.2.18 Višestruka prodaja
+  - 3.1.2.19 Razmena
+  - 3.1.2.20 Prodajni nalog
+  - 3.1.2.21 Zajam
+  - 3.1.2.22 Zakup
+    - 3.1.2.22.1 Podzakup
+  - 3.1.2.23 Ugovor o delu
+  - 3.1.2.24 Ugovor o građenju
+  - 3.1.2.25 Prevoz
+  - 3.1.2.26 Ugovor o licenci
+  - 3.1.2.27 Ostava
+  - 3.1.2.28 Uskladištenje
+  - 3.1.2.29 Nalog
+  - 3.1.2.30 Komision
+  - 3.1.2.31 Ugovor o trgovinskom zastupanju
+  - 3.1.2.32 Posredovanje
+  - 3.1.2.33 Otpremanje - špedicija
+  - 3.1.2.34 Ugovor o kontroli roba i usluga
+  - 3.1.2.35 Ugovor o organizovanju putovanja
+  - 3.1.2.36 Posrednički ugovor o putovanju
+  - 3.1.2.37 Ugovor o alotmanu
+  - 3.1.2.38 Osiguranje
+    - 3.1.2.38.1 Prava i obaveze osiguranika i osiguravača
+    - 3.1.2.38.2 Osiguranje imovine
+    - 3.1.2.38.3 Osiguranje lica
+    - 3.1.2.38.4 Osiguranje od odgovornosti
+    - 3.1.2.38.5 Ulog na štednju
+    - 3.1.2.38.6 Regres
+  - 3.1.2.39 Zaloga
+  - 3.1.2.40 Jemstvo
+  - 3.1.2.41 Asignacija
+  - 3.1.2.42 Bankarski novčani depoziti
+  - 3.1.2.43 Bankarski tekući račun
+  - 3.1.2.44 Ugovor o kreditu
+    - 3.1.2.44.1 Valutna klauzula
+    - 3.1.2.44.2 Troškovi obrade kredita
+    - 3.1.2.44.3 Kamata
+  - 3.1.2.45 Akreditivi i bankarske garancije
+  - 3.1.2.46 Poravnanje
+- 3.1.3 Nasledno pravo
+  - 3.1.3.1 Predmet nasleđivanja
+  - 3.1.3.2 Sposobnost za nasleđivanje
+  - 3.1.3.3 Nedostojnost za nasleđivanje
+  - 3.1.3.4 Nasledna prava stranaca
+  - 3.1.3.5 Nasleđivanje na osnovu zakona
+    - 3.1.3.5.1 Zakonski naslednici
+      - 3.1.3.5.1.1 Pravo predstavljanja
+      - 3.1.3.5.1.2 Pravo priraštaja
+    - 3.1.3.5.2 Nužni naslednici
+    - 3.1.3.5.3 Nužni i raspoloživi deo
+    - 3.1.3.5.4 Smanjenje zaveštajnih raspolaganja
+    - 3.1.3.5.5 Zastarelost prava
+    - 3.1.3.5.6 Uračunavanje poklona i isporuka u nasledni deo
+  - 3.1.3.6 Nasleđivanje na osnovu zaveštanja (testamenta, poslednje volje)
+  - 3.1.3.7 Zaveštanje
+    - 3.1.3.7.1 Oblici zaveštanja
+      - 3.1.3.7.1.1 Svojeručno
+      - 3.1.3.7.1.2 Pismeno – pred svedocima
+      - 3.1.3.7.1.3 Sudsko
+      - 3.1.3.7.1.4 Konzularno
+      - 3.1.3.7.1.5 Međunarodno
+      - 3.1.3.7.1.6 Brodsko
+      - 3.1.3.7.1.7 Vojno
+      - 3.1.3.7.1.8 Usmeno
+    - 3.1.3.7.2 Sadržina zaveštanja
+      - 3.1.3.7.2.1 Zaveštajna sposobnost
+      - 3.1.3.7.2.2 Izvršioci zaveštanja
+      - 3.1.3.7.2.3 Tumačenje zaveštanja
+    - 3.1.3.7.3 Uslovi, rokovi i nalog
+  - 3.1.3.8 Isporuka
+  - 3.1.3.9 Nevažnost zaveštanja
+  - 3.1.3.10 Rušljivost zaveštanja
+  - 3.1.3.11 Uništeno, izgubljeno ili skriveno zaveštanje
+  - 3.1.3.12 Opoziv zaveštanja
+  - 3.1.3.13 Ugovori u naslednom pravu
+    - 3.1.3.13.1 Ugovor o doživotnom izdržavanju
+      - 3.1.3.13.1.1 Apsolutna ništavost ugovora
+      - 3.1.3.13.1.2 Raskid ugovora
+      - 3.1.3.13.1.3 Smrt davaoca izdržavanja
+    - 3.1.3.13.2 Ugovor o ustupanju i raspodeli imovine za života
+    - 3.1.3.13.3 Ugovor o nasleđivanju i ugovor o budućem nasledstvu ili isporuci
+  - 3.1.3.14 Prelazak zaostavštine na naslednike
+  - 3.1.3.15 Sticanje zaostavštine
+  - 3.1.3.16 Odgovornost naslednika za dugove ostavioca
+  - 3.1.3.17 Deoba nasledstva
+- 3.1.4 Porodično pravo
+  - 3.1.4.1 Porodica
+  - 3.1.4.2 Brak
+  - 3.1.4.3 Dejstva braka
+  - 3.1.4.4 Prestanak braka
+    - 3.1.4.4.1 Ništavost braka
+    - 3.1.4.4.2 Rušljivost braka
+    - 3.1.4.4.3 Razvod braka
+    - 3.1.4.4.4 Odnosi deteta i roditelja
+      - 3.1.4.4.4.1 Održavanje ličnih odnosa sa srodnicima
+  - 3.1.4.5 Vanbračna zajednica
+  - 3.1.4.6 Utvrđivanje materinstva i očinstva
+  - 3.1.4.7 Osporavanje materinstva i očinstva
+  - 3.1.4.8 Prava deteta
+  - 3.1.4.9 Vršenje roditeljskog prava
+  - 3.1.4.10 Privremena mera
+  - 3.1.4.11 Lišenje roditeljskog prava
+  - 3.1.4.12 Usvojenje
+  - 3.1.4.13 Hraniteljstvo
+  - 3.1.4.14 Starateljstvo
+  - 3.1.4.15 Lišenje poslovne sposobnosti
+  - 3.1.4.16 Izdržavanje
+    - 3.1.4.16.1 Izdržavanje supružnika
+    - 3.1.4.16.2 Izdržavanje vanbračnog partnera
+    - 3.1.4.16.3 Izdržavanje majke deteta
+    - 3.1.4.16.4 Izdržavanje deteta
+      - 3.1.4.16.4.1 Maloletnog
+      - 3.1.4.16.4.2 Punoletnog
+    - 3.1.4.16.5 Izdržavanje roditelja
+    - 3.1.4.16.6 Izdržavanje drugih srodnika
+    - 3.1.4.16.7 Određivanje i prestanak izdržavanja
+    - 3.1.4.16.8 Privremena mera radi određivanja izdržavanja
+  - 3.1.4.17 Imovinski odnosi
+    - 3.1.4.17.1 Imovinski odnosi supružnika
+      - 3.1.4.17.1.1 Posebna imovina supružnika
+      - 3.1.4.17.1.2 Zajednička imovina supružnika
+      - 3.1.4.17.1.3 Deoba zajedničke imovine supružnika
+      - 3.1.4.17.1.4 Odgovornost za obaveze
+    - 3.1.4.17.2 Ugovori supružnika
+      - 3.1.4.17.2.1 Bračni ugovor
+      - 3.1.4.17.2.2 Ugovor o upravljanju i raspolaganju zajedničkom imovinom
+      - 3.1.4.17.2.3 Ugovor o poklonu
+    - 3.1.4.17.3 Imovinski odnosi vanbračnih partnera
+    - 3.1.4.17.4 Imovinski odnosi deteta i roditelja
+    - 3.1.4.17.5 Pravo stanovanja (habitatio)
+    - 3.1.4.17.6 Imovinski odnosi članova porodične zajednice
+  - 3.1.4.18 Zaštita od nasilja u porodici
+    - 3.1.4.18.1.1 Mere zaštite
+    - 3.1.4.18.1.2 Trajanje
+    - 3.1.4.18.1.3 Produženje
+    - 3.1.4.18.1.4 Aktivna legitimacija
+    - 3.1.4.18.1.5 Privremene mere zaštite od nasilja
+  - 3.1.4.19 Postupci u vezi sa porodičnim odnosima
+    - 3.1.4.19.1 Postupak pred sudom
+      - 3.1.4.19.1.1 Sastav veća
+      - 3.1.4.19.1.2 Postupak u bračnom sporu
+      - 3.1.4.19.1.3 Postupak u sporu o materinstvu i očinstvu
+      - 3.1.4.19.1.4 Postupak u sporu za zaštitu prava deteta i u sporu za vršenje odnosno lišenje roditeljskog prava
+      - 3.1.4.19.1.5 Postupak u sporu za poništenje usvojena
+      - 3.1.4.19.1.6 Postupak u sporu za izdržavanje
+      - 3.1.4.19.1.7 Postupak u sporu za zaštitu od nasilja u porodici
+    - 3.1.4.19.2 Zaštita prava na lično ime
+      - 3.1.4.19.2.1 Tužbe za zaštitu prava
+      - 3.1.4.19.2.2 Naknada štete
+- 3.1.5 Stambeno pravo
+  - 3.1.5.1 Zasnivanje prava
+    - 3.1.5.1.1 Dodela stana
+    - 3.1.5.1.2 Ugovor o zakupu
+    - 3.1.5.1.3 Rešenje koje zamenjuje ugovor o zakupu stana
+    - 3.1.5.1.4 Spor pune jurisdikcije
+  - 3.1.5.2 Prestanak prava
+    - 3.1.5.2.1 Prestanak prava zakupca
+    - 3.1.5.2.2 Članovi porodičnog domaćinstva
+    - 3.1.5.2.3 Otkaz ugovora
+    - 3.1.5.2.4 Iseljenje
+    - 3.1.5.2.5 Važenje zakona
+  - 3.1.5.3 Korišćenje stanova u svojini građana
+  - 3.1.5.4 Zamena stanova
+  - 3.1.5.5 Sustanari
+  - 3.1.5.6 Otkup stana
+  - 3.1.5.7 Stambeni odnosi razvedenih supružnika i vanbračnih partnera
+  - 3.1.5.8 Održavanje stambenih zgrada i stanova
+
+### 3.2 Trgovinsko (privredno) pravo
+- 3.2.1 Kompanijsko pravo
+  - 3.2.1.1 Apsolutna ništavost osnivačkog akta
+  - 3.2.1.2 Povreda posebnih dužnosti
+    - 3.2.1.2.1 Tužba društva protiv lica
+    - 3.2.1.2.2 Individualna tužba
+    - 3.2.1.2.3 Derivativna tužba
+  - 3.2.1.3 Prenos udela
+    - 3.2.1.3.1 Ništavost ugovora
+    - 3.2.1.3.2 Raskid ugovora
+  - 3.2.1.4 Istupanje člana društva iz društva
+  - 3.2.1.5 Isključenje člana društva iz društva
+  - 3.2.1.6 Zaštita prava manjinskih akcionara
+  - 3.2.1.7 Pobijanje odluke skupštine društva
+    - 3.2.1.7.1 Tužba za prestanak društva
+    - 3.2.1.7.2 Tužba zbog sticanja i raspolaganja
+    - 3.2.1.7.3 Prinudni otkup akcija i pravo na otkup akcija
+  - 3.2.1.8 Odgovornost članova društva – akcionara za obaveze društva po prestanku društva
+  - 3.2.1.9 Probijanje pravne ličnosti
+- 3.2.2 Trgovinsko obligaciono pravo
+  - 3.2.2.1 Ugovori u privredi
+    - 3.2.2.1.1 Ugovor o prodaji
+    - 3.2.2.1.2 Ugovor o posredovanju
+    - 3.2.2.1.3 Ugovor o trgovinskom zastupanju
+    - 3.2.2.1.4 Ugovor o komisionu
+    - 3.2.2.1.5 Ugovor o kontroli robe i usluga
+    - 3.2.2.1.6 Ugovor o uskladištenju robe
+    - 3.2.2.1.7 Ugovor o otpremanju (špediciji)
+    - 3.2.2.1.8 Ugovor o prevozu robe železnicom
+    - 3.2.2.1.9 Ugovor o prevozu robe pomorskim putem
+    - 3.2.2.1.10 Ugovor o prevozu robe unutrašnjim vodenim putevima
+    - 3.2.2.1.11 Ugovor o prevozu robe drumom
+    - 3.2.2.1.12 Ugovor o prevozu robe vazdušnim putem
+    - 3.2.2.1.13 Ugovor o prevozu putnika
+    - 3.2.2.1.14 Ugovor o licenci
+    - 3.2.2.1.15 Ugovor o angažovanju ugostiteljskih kapaciteta
+    - 3.2.2.1.16 Ugovor o osiguranju
+    - 3.2.2.1.17 Ugovor o građenju
+    - 3.2.2.1.18 Ugovor o lizingu
+    - 3.2.2.1.19 Ugovor o faktoringu
+    - 3.2.2.1.20 Izdavački ugovor
+    - 3.2.2.1.21 Ugovor o koncesiji
+    - 3.2.2.1.22 Novi ugovori trgovinskog prava
+  - 3.2.2.2 Šteta
+    - 3.2.2.2.1 Odgovornost za štetu
+    - 3.2.2.2.2 Ugovorna
+    - 3.2.2.2.3 Deliktna
+    - 3.2.2.2.4 Naknada štete
+      - 3.2.2.2.4.1 Obim naknade
+      - 3.2.2.2.4.2 Obična šteta
+      - 3.2.2.2.4.3 Izmakla korist
+      - 3.2.2.2.4.4 Snižеnje naknade
+    - 3.2.2.2.5 Zastarelost
+
+### 3.3 Privatizacija
+- 3.3.1 Uslovi
+- 3.3.2 Poništaj ugovora o privatizaciji
+- 3.3.3 Raskid ugovora o privatizaciji
+
+### 3.4 Stečaj i likvidacija
+- 3.4.1 Uslovi
+- 3.4.2 Utvrđivanje osporenih potraživanja
+  - 3.4.2.1 Novčana potraživanja
+  - 3.4.2.2 Izlučna i razlučna prava
+- 3.4.3 Reorganizacija
+
+### 3.5 Radno pravo
+- 3.5.1 Zasnivanje radnog odnosa
+- 3.5.2 Zabrana diskriminacije
+  - 3.5.2.1 Neposredna
+  - 3.5.2.2 Posredna
+  - 3.5.2.3 Prilikom zapošljavanja
+  - 3.5.2.4 Prilikom ostvarivanja prava iz radnog odnosa
+  - 3.5.2.5 Prilikom otkaza ugovora o radu
+  - 3.5.2.6 Teret dokazivanja
+- 3.5.3 Zaštita ličnih podataka
+- 3.5.4 Ugovor o radu
+- 3.5.5 Radni odnos na neodređeno vreme
+- 3.5.6 Radni odnos na određeno vreme
+- 3.5.7 Preobražaj radnog odnosa
+- 3.5.8 Ugovor o pravima i obavezama direktora
+- 3.5.9 Radno vreme
+  - 3.5.9.1 Prekovremeni rad
+  - 3.5.9.2 Preraspodela radnog vremena
+  - 3.5.9.3 Noćni rad
+  - 3.5.9.4 Smenski rad
+- 3.5.10 Odmori i odsustva
+- 3.5.11 Zarada i plata
+- 3.5.12 Minimalna zarada
+- 3.5.13 Minimalna cena rada
+- 3.5.14 Naknada zarade i plate
+- 3.5.15 Naknada troškova
+  - 3.5.15.1 Za dolazak i odlazak sa rada
+  - 3.5.15.2 Za ishranu u toku rada
+  - 3.5.15.3 Službeni put
+  - 3.5.15.4 Otpremnina pri odlasku u penziju
+  - 3.5.15.5 Jubilarna nagrada
+- 3.5.16 Druga primanja
+- 3.5.17 Višak zaposlenih
+- 3.5.18 Klauzula zabrane konkurencije
+- 3.5.19 Naknada štete
+- 3.5.20 Suspenzija
+- 3.5.21 Izmena ugovora o radu
+- 3.5.22 Prestanak radnog odnosa
+  - 3.5.22.1 Zakonski razlozi
+  - 3.5.22.2 Sporazumni prestanak
+  - 3.5.22.3 Otkaz od strane zaposlenog
+  - 3.5.22.4 Otkaz od strane poslodavca
+    - 3.5.22.4.1 Neostvarivanje rezultata rada
+    - 3.5.22.4.2 Povreda radne obaveze
+    - 3.5.22.4.3 Nepoštovanje radne discipline
+    - 3.5.22.4.4 Krivično delo učinjeno na radu ili u vezi sa radom
+    - 3.5.22.4.5 Nevraćanje na rad po isteku neplaćenog odsustva ili mirovanja radnog odnosa
+    - 3.5.22.4.6 Zloupotrebe prava na odsustvo zbog privremene sprečenosti za rad
+    - 3.5.22.4.7 Odbijanja zaključenja aneksa ugovora o radu
+    - 3.5.22.4.8 Tehnološki višak
+  - 3.5.22.5 Postupak u slučaju otkaza
+    - 3.5.22.5.1 Upozorenje
+    - 3.5.22.5.2 Zastarelost
+    - 3.5.22.5.3 Dostavljanje
+    - 3.5.22.5.4 Posebna zaštita od otkaza ugovora o radu
+  - 3.5.22.6 Disciplinske mere
+    - 3.5.22.6.1 Privremeno udaljenje sa rada
+    - 3.5.22.6.2 Novčana kazna
+    - 3.5.22.6.3 Opomena
+- 3.5.23 Zaštita prava zaposlenih
+  - 3.5.23.1 Uslovi za sudsku zaštitu
+  - 3.5.23.2 Rokovi za zaštitu prava
+  - 3.5.23.3 Nezakonit otkaz
+    - 3.5.23.3.1 Reintegracija
+    - 3.5.23.3.2 Supstitucija umesto reintegracija
+    - 3.5.23.3.3 Naknada štete zbog izgubljene zarade
+- 3.5.24 Rad van radnog odnosa
+  - 3.5.24.1 Privremeni i povremeni poslovi
+  - 3.5.24.2 Ugovor o delu
+  - 3.5.24.3 Ugovor o zastupanju ili posredovanju
+  - 3.5.24.4 Ugovor o stručnom osposobljavanju i usavršavanju
+  - 3.5.24.5 Dopunski rad
+  - 3.5.24.6 Samozapošljavanje
+- 3.5.25 Reprezentativnost sindikata i udruženja poslodavaca
+- 3.5.26 Kolektivni ugovori
+- 3.5.27 Štrajk
+
+### 3.6 Zabrana diskriminacije
+- 3.6.1 Pojam diskriminacije
+- 3.6.2 Oblici diskriminacije
+  - 3.6.2.1 Neposredna diskriminacija
+  - 3.6.2.2 Posredna diskriminacija
+  - 3.6.2.3 Povreda načela jednakih prava i obaveza
+  - 3.6.2.4 Govor mržnje
+  - 3.6.2.5 Uznemiravanje i ponižavajuće postupanje
+- 3.6.3 Posebni slučajevi diskriminacije
+  - 3.6.3.1 Diskriminacija u postupcima pred organima javne vlasti
+  - 3.6.3.2 Diskriminacija u pružanju javnih usluga i korišćenju objekata i površina
+  - 3.6.3.3 Verska diskriminacija
+  - 3.6.3.4 Diskriminacija u oblasti obrazovanja i stručnog osposobljavanja
+  - 3.6.3.5 Diskriminacija na osnovu pola, roda i rodnog identiteta
+  - 3.6.3.6 Diskriminacija na osnovu seksualne orjentacije
+  - 3.6.3.7 Diskriminacije dece
+  - 3.6.3.8 Diskriminacija na osnovu starosnog doba
+  - 3.6.3.9 Diskriminacija nacionalnih manjina
+  - 3.6.3.10 Diskriminacija zbog političke ili sindikalne pripadnosti
+  - 3.6.3.11 Diskriminacija osoba sa invaliditetom
+  - 3.6.3.12 Diskriminacija s obzirom na zdravstveno stanje
+  - 3.6.3.13 Diskriminacija u oblasti stanovanja
+  - 3.6.3.14 Vojni rezervisti
+- 3.6.4 Sudska zaštita – pravila postupka
+  - 3.6.4.1 Nadležnost
+  - 3.6.4.2 Teret dokazivanja
+  - 3.6.4.3 Hitnost postupka
+- 3.6.5 Privremene mere
+- 3.6.6 Naknada štete
+
+### 3.7 Zabrana zlostavljanja na radu (mobing)
+- 3.7.1 Pojam zlostavljanja
+- 3.7.2 Izvršioci zlostavljanja
+- 3.7.3 Pokretanje postupka
+- 3.7.4 Sadržina tužbe
+- 3.7.5 Vrsta tužbe
+- 3.7.6 Pravila postupka
+  - 3.7.6.1 Nadležnost
+  - 3.7.6.2 Teret dokazivanja
+  - 3.7.6.3 Hitnost postupka
+- 3.7.7 Privremene mere
+
+### 3.8 Uzbunjivači
+- 3.8.1 Uzbunjivanje
+- 3.8.2 Uzbunjivač
+- 3.8.3 Zaštita povezanih i ostalih lica
+- 3.8.4 Kanali za uzbunjivanje
+  - 3.8.4.1 Unutrašnje uzbunjivanje
+  - 3.8.4.2 Spoljašnje uzbunjivanje
+  - 3.8.4.3 Uzbunjivanje javnosti
+- 3.8.5 Postupanje sa tajnim podacima
+- 3.8.6 Naknada štete
+- 3.8.7 Zaštita uzbunjivača
+  - 3.8.7.1 Zabrana stavljanja u nepovoljniji položaj
+  - 3.8.7.2 Nadležnost i sastav suda
+  - 3.8.7.3 Načela postupka
+  - 3.8.7.4 Vrste tužbi
+  - 3.8.7.5 Prava uzbunjivača u posebnim postupcima (radnim i drugim sporovima)
+- 3.8.8 Privremene mere
+  - 3.8.8.1 Nadležnost
+  - 3.8.8.2 Privremene mere pre pokretanja postupka
+    - 3.8.8.2.1 Odlaganje pravnog dejstva pojedinačnog akta
+    - 3.8.8.2.2 Vraćanje na rad
+  - 3.8.8.3 Privremene mere posle pokretanja postupka
+  - 3.8.8.4 Vrste privremenih mera
+    - 3.8.8.4.1 Isplata naknade
+    - 3.8.8.4.2 Vraćanje na rad
+    - 3.8.8.4.3 Druge privremene mere
+
+### 3.9 Autorsko pravo
+- 3.9.1 Autorsko delo
+- 3.9.2 Ograničenje autorskog prava
+- 3.9.3 Prenos autorskog prava
+  - 3.9.3.1 Moralna prava
+  - 3.9.3.2 Imovinska prava
+  - 3.9.3.3 Autorski ugovor
+- 3.9.4 Autorsko delo stvoreno u radnom odnosu
+- 3.9.5 Trajanje autorskog prava
+  - 3.9.5.1 Zastarelost autorskog prava
+- 3.9.6 Srodna prava
+  - 3.9.6.1 Prava interpretatora
+  - 3.9.6.2 Prava proizvođača
+    - 3.9.6.2.1 Fonograma
+    - 3.9.6.2.2 Emisija
+    - 3.9.6.2.3 Baze podataka
+    - 3.9.6.2.4 Pravo filmskog producenta
+    - 3.9.6.2.5 Pravo izdavača
+- 3.9.7 Zaštita autorskih i srodnih prava
+  - 3.9.7.1 Utvrđenje povrede prava
+  - 3.9.7.2 Naknada materijalne štete
+  - 3.9.7.3 Naknada nematerijalne štete
+  - 3.9.7.4 Ostali načini zaštite
+  - 3.9.7.5 Međunarodna zaštita autorskog prava
+  - 3.9.7.6 Kolektivna zaštita
+
+### 3.10 Patentno pravo
+- 3.10.1 Patent
+- 3.10.2 Mali patent
+- 3.10.3 Pronalazak iz radnog odnosa
+- 3.10.4 Tehničko unapređenje
+- 3.10.5 Nastanak trajanje i prestanak prava
+- 3.10.6 Zastarelost
+- 3.10.7 Građanskopravna zaštita
+- 3.10.8 Licenca
+- 3.10.9 Naknada štete
+
+### 3.11 Pravo industrijske svojine
+- 3.11.1 Zaštita žiga
+  - 3.11.1.1 Povreda prava na žig
+  - 3.11.1.2 Naknada materijalne i nematerijalne štete
+  - 3.11.1.3 Sličnost žigova
+  - 3.11.1.4 Sličnost roba i usluga
+  - 3.11.1.5 Čuveni žig
+  - 3.11.1.6 Opštepoznati (notorni) znak
+- 3.11.2 Zaštita topografije integrisanih kola
+- 3.11.3 Zaštita dizajna (modela, uzoraka)
+- 3.11.4 Zaštita oznake geografskog porekla
+- 3.11.5 Zaštita prava ostalih stvaralaca
+
+### 3.12 Medijsko pravo
+- 3.12.1 Slobodan pristup informacijama od javnog značaja
+- 3.12.2 Radiodifuzija
+- 3.12.3 Javno oglašavanje
+- 3.12.4 Javno informisanje
+  - 3.12.4.1 Načela
+  - 3.12.4.2 Javna glasila
+  - 3.12.4.3 Distribucija javnih glasila
+    - 3.12.4.3.1 Zabrana distribucije
+    - 3.12.4.3.2 Zabrana diskriminacije
+    - 3.12.4.3.3 Naknada štete zbog neopravdane zabrane (u krivičnom i parničnom postupku)
+- 3.12.5 Prava novinara, urednika i novinarska tajna
+- 3.12.6 Zabrana govora mržnje
+- 3.12.7 Informacije iz privatnog života, i lični zapisi
+- 3.12.8 Odgovor na informaciju
+- 3.12.9 Ispravka informacije
+- 3.12.10 Propuštanje objavljivanja informacije
+- 3.12.11 Naknada štete
+- 3.12.12 Zaštita povređenih prava
+  - 3.12.12.1 Rokovi za pružanje građansko-pravne zaštite
+  - 3.12.12.2 Prava ličnosti
+  - 3.12.12.3 Pravo privatnosti (vidovi prava)
+  - 3.12.12.4 Pravo na dostojanstvo ličnosti (pravo na pijetet, čast i ugled)
+  - 3.12.12.5 Lični zapisi
+  - 3.12.12.6 Simbolička slika
+- 3.12.13 Novčana naknada štete, učešće u dobiti
+- 3.12.14 Objavljivanje presude
+- 3.12.15 Pasivna legitimacija u medijskom pravu
+- 3.12.16 Standard novinarske pažnje
+- 3.12.17 Činjenični vrednosni sud
+
+### 3.13 Medicinsko pravo
+- 3.13.1 Pravo na zaštitu zdravlja
+- 3.13.2 Odgovornost zbog lekarske greške
+- 3.13.3 Odgovornost za povredu profesionalne tajne (pravo na privatnost)
+- 3.13.4 Posebni slučajevi odgovornosti lekara i zdravstvenih ustanova
+- 3.13.5 Odgovornost za štetu od lekova
+
+### 3.14 Pravo na vraćanje oduzete imovine i obeštećenje
+
+### 3.15 Pravo na rehabilitaciju
+- 3.15.1 Rehabilitaciono obeštećenje
+
+### 3.16 Međunarodno procesno pravo
+- 3.16.1 Domicil notifikacije (punomoćnik za prijem pismena)
+- 3.16.2 Međunarodna litispendencija
+- 3.16.3 Aktorska kaucija
+- 3.16.4 Priznanje i izvršenje stranih sudskih i arbitražnih odluka
+  - 3.16.4.1 Uslovi
+  - 3.16.4.2 Reciprocitet
+  - 3.16.4.3 Postupak
+  - 3.16.4.4 Odluka
+  - 3.16.4.5 Pobijanje odluke
+
+### 3.17 Međunarodno privatno pravo
+- 3.17.1 Međunarodno statusno pravo
+- 3.17.2 Međunarodno stvarno pravo
+- 3.17.3 Međunarodno obligaciono pravo
+- 3.17.4 Međunarodno menično pravo
+- 3.17.5 Međunarodno nasledno pravo
+- 3.17.6 Međunarodno porodično pravo
+
+### 3.18 Međunarodno trgovinsko pravo
+- 3.18.1 Ugovor o međunarodnoj prodaji robe
+- 3.18.2 Jednoobrazna pravila o menici
+- 3.18.3 Međunarodni akreditiv
+- 3.18.4 Arbitraža, arbitražni sporazum, arbitražna klauzula
+
+### 3.19 Građansko procesno pravo
+- 3.19.1 Parnični postupak
+  - 3.19.1.1 Osnovna načela
+    - 3.19.1.1.1 Raspravljanje
+    - 3.19.1.1.2 Kontradiktornost
+    - 3.19.1.1.3 Vremenski okvir
+    - 3.19.1.1.4 Razumni rok
+    - 3.19.1.1.5 Nezakonite dispozicije
+  - 3.19.1.2 Nadležnost
+  - 3.19.1.3 Sastav suda
+  - 3.19.1.4 Vrednost spora
+  - 3.19.1.5 Isključenje i izuzeće
+  - 3.19.1.6 Stranke i njihovi zastupnici
+  - 3.19.1.7 Punomoćnici
+  - 3.19.1.8 Jezik u postupku
+  - 3.19.1.9 Podnesci, rokovi i ročišta
+    - 3.19.1.9.1 Vraćanje u pređašnje stanje
+  - 3.19.1.10 Dostavljanje
+  - 3.19.1.11 Troškovi postupka
+    - 3.19.1.11.1 Oslobađanje od plaćanja troškova
+    - 3.19.1.11.2 Sudske takse
+  - 3.19.1.12 Postupak za rešavanje spornog pravnog pitanja
+  - 3.19.1.13 Nepoštovanje procesne discipline
+  - 3.19.1.14 Tužba
+  - 3.19.1.15 Prethodno ispitivanje tužbe
+    - 3.19.1.15.1 Odbacivanje tužbe
+    - 3.19.1.15.2 Povlačenje tužbe
+  - 3.19.1.16 Odgovor na tužbu
+  - 3.19.1.17 Suparničari, jedinstveni suparničari, učešće trećih lica u parnici
+  - 3.19.1.18 Prekid i zastoj postupka
+    - 3.19.1.18.1 Nastavak postupka
+  - 3.19.1.19 Dokazivanje i teret dokazivanja
+  - 3.19.1.20 Glavna rasprava
+  - 3.19.1.21 Presuda
+    - 3.19.1.21.1 Delimična presuda
+    - 3.19.1.21.2 Međupresuda
+    - 3.19.1.21.3 Presuda na osnovu priznanja
+    - 3.19.1.21.4 Presuda na osnovu odricanja
+    - 3.19.1.21.5 Presuda zbog propuštanja
+    - 3.19.1.21.6 Presuda zbog izostanka
+    - 3.19.1.21.7 Dopunska presuda
+  - 3.19.1.22 Rešenje
+  - 3.19.1.23 Sudsko poravnanje
+  - 3.19.1.24 Pravosnažnost presude
+  - 3.19.1.25 Redovni pravni lekovi
+    - 3.19.1.25.1 Žalba
+      - 3.19.1.25.1.1 Postupak po žalbi
+        - 3.19.1.25.1.1.1 Rasprava pred drugostepenim sudom
+      - 3.19.1.25.1.2 Odbacivanje žalbe
+      - 3.19.1.25.1.3 Povlačenje žalbe
+    - 3.19.1.25.2 Razlozi pobijanja
+      - 3.19.1.25.2.1 Bitne povrede
+      - 3.19.1.25.2.2 Pogrešno i nepotpuno utvrđeno činjenično stanje, nove činjenice i novi dokazi
+      - 3.19.1.25.2.3 Pogrešna primena materijalnog prava
+    - 3.19.1.25.3 Granice ispitivanja prvostepene presude
+    - 3.19.1.25.4 Odluke drugostepenog suda
+    - 3.19.1.25.5 Žalba protiv rešenja
+  - 3.19.1.26 Vanredni pravni lekovi
+    - 3.19.1.26.1 Revizija
+      - 3.19.1.26.1.1 Razlozi pobijanja
+      - 3.19.1.26.1.2 Blagovremenost revizije
+      - 3.19.1.26.1.3 Dozvoljenost revizije
+      - 3.19.1.26.1.4 Posebna revizija
+    - 3.19.1.26.2 Odlučivanje o reviziji
+    - 3.19.1.26.3 Revizija protiv rešenja
+    - 3.19.1.26.4 Zahtev za zaštitu zakonitosti
+    - 3.19.1.26.5 Zahtev za vanredno preispitivanje pravnosnažne sudske odluke
+    - 3.19.1.26.6 Ponavljanje postupka
+      - 3.19.1.26.6.1 Zbog nepropisnog sastava suda
+      - 3.19.1.26.6.2 Zbog povrede prava raspravljanja
+      - 3.19.1.26.6.3 Zbog novih činjenica i novih dokaza
+      - 3.19.1.26.6.4 Zbog odluke Ustavnog suda
+      - 3.19.1.26.6.5 Zbog odluke Evropskog suda za ljudska prava
+      - 3.19.1.26.6.6 Pred vrhovnim kasacionim sudom
+        - 3.19.1.26.6.6.1 Blagovremenost predloga za ponavljanje postupka
+        - 3.19.1.26.6.6.2 Dozvoljenost predloga za ponavljanje postupka
+  - 3.19.1.27 Posebni postupci
+    - 3.19.1.27.1 Radni odnosi
+    - 3.19.1.27.2 Kolektivni ugovori
+    - 3.19.1.27.3 Izdavanje platnog naloga
+    - 3.19.1.27.4 Postupak u sporovima male vrednosti
+  - 3.19.1.28 Postupak u privrednim sporovima
+    - 3.19.1.28.1 Nadležnost
+    - 3.19.1.28.2 Sastav veća
+- 3.19.2 Vanparnični postupak
+  - 3.19.2.1 Opšta pravila
+  - 3.19.2.2 Posebni postupci
+    - 3.19.2.2.1 Uređenje ličnih stanja
+    - 3.19.2.2.2 Lišenje poslovne sposobnosti
+    - 3.19.2.2.3 Zadržavanje u zdravstvenoj ustanovi
+    - 3.19.2.2.4 Proglašenje nestalog lica za umrlo i dokazivanje smrti
+    - 3.19.2.2.5 Utvrđivanje vremena i mesta rođenja
+    - 3.19.2.2.6 Postupci za uređenje imovinskih odnosa
+      - 3.19.2.2.6.1 Raspravljanje zaostavštine
+      - 3.19.2.2.6.2 Određivanje naknade za eksproprisanu nepokretnost
+      - 3.19.2.2.6.3 Deoba zajedničke stvari
+      - 3.19.2.2.6.4 Uređenje međa
+    - 3.19.2.2.7 Sudski depozit
+    - 3.19.2.2.8 Zemljišnoknjižni upisi
+      - 3.19.2.2.8.1 Uknjižba i brisanje uknjižbe
+- 3.19.3 Izvršni postupak
+  - 3.19.3.1 Izvršenje
+    - 3.19.3.1.1 Postupak izvršenja
+    - 3.19.3.1.2 Izvršne isprave
+    - 3.19.3.1.3 Nedopustivost izvršenja
+    - 3.19.3.1.4 Izvršenje radi naplate novčanog potraživanja
+    - 3.19.3.1.5 Izjava o imovini dužnika
+    - 3.19.3.1.6 Izvršenje radi ostvarenja nenovčanog potraživanja
+  - 3.19.3.2 Obezbeđenje
+  - 3.19.3.3 Privremene mere
+    - 3.19.3.3.1 Sporazumno zasnivanje založnog prava
+
+### 3.20 Sukobi nadležnosti
+- 3.20.1 Građansko pravo
+- 3.20.2 Upravno pravo
+
+### 3.21 Delegacija nadležnosti
+
+---
+
+## 4. Upravno pravo
+
+### 4.1 Upravno procesno pravo
+- 4.1.1 Upravni postupak
+  - 4.1.1.1 Osnovna načela
+  - 4.1.1.2 Nadležnost
+  - 4.1.1.3 Stranka i njeno zastupanje
+  - 4.1.1.4 Dostavljanje pismena
+  - 4.1.1.5 Rokovi
+  - 4.1.1.6 Vraćanje u pređašnje stanje
+  - 4.1.1.7 Troškovi postupka
+  - 4.1.1.8 Pokretanje prvostepenog postupka
+    - 4.1.1.8.1 Po službenoj dužnosti
+    - 4.1.1.8.2 Po zahtevu stranke
+    - 4.1.1.8.3 Izmena i odustanak od zahteva
+  - 4.1.1.9 Vrste postupaka
+    - 4.1.1.9.1 Skraćeni postupak
+    - 4.1.1.9.2 Poseban ispitni postupak
+    - 4.1.1.9.3 Prethodno pitanje
+  - 4.1.1.10 Rešenje
+    - 4.1.1.10.1 Oblik i sastavni delovi
+    - 4.1.1.10.2 Delimično, dopunsko i privremeno rešenje
+  - 4.1.1.11 Zaključak
+  - 4.1.1.12 Žalba
+    - 4.1.1.12.1 Odbacivanje žalbe
+    - 4.1.1.12.2 Ostale odluke po žalbi
+  - 4.1.1.13 Prigovor
+  - 4.1.1.14 Vanredna pravna sredstva
+    - 4.1.1.14.1 Ponavljanje postupka
+    - 4.1.1.14.2 Menjanje i poništavanje rešenja u vezi sa upravnim sporom
+    - 4.1.1.14.3 Zahtev za zaštitu zakonitosti
+    - 4.1.1.14.4 Poništavanje i ukidanje po osnovu službenog nadzora
+    - 4.1.1.14.5 Ukidanje i menjanje pravosnažnog rešenja uz pristanak ili po zahtevu stranke
+    - 4.1.1.14.6 Vanredno ukidanje
+    - 4.1.1.14.7 Oglašavanje rešenja ništavim
+  - 4.1.1.15 Izvršni postupak
+    - 4.1.1.15.1 Izvršenje nenovčanih obaveza
+    - 4.1.1.15.2 Izvršenje radi obezbeđenja
+- 4.1.2 Upravni spor – procesno pravo
+  - 4.1.2.1 Upravni spor
+    - 4.1.2.1.1 Nadležnost Upravnog suda
+      - 4.1.2.1.1.1 Oglašavanje suda nenadležnim
+      - 4.1.2.1.1.2 Sukob nadležnosti
+    - 4.1.2.1.2 Predmet upravnog spora
+      - 4.1.2.1.2.1 Konačni upravni akt
+      - 4.1.2.1.2.2 Drugi konačni pojedinačni akti
+      - 4.1.2.1.2.3 Ćutanje uprave
+    - 4.1.2.1.3 Stranke u upravnom sporu
+      - 4.1.2.1.3.1 Tužilac
+      - 4.1.2.1.3.2 Tuženi organ
+      - 4.1.2.1.3.3 Zainteresovano lice
+  - 4.1.2.2 Tužba
+    - 4.1.2.2.1 Rešenje o odbacivanju tužbe
+    - 4.1.2.2.2 Odložno dejstvo tužbe
+  - 4.1.2.3 Tužba zbog nedonošenja rešenja
+  - 4.1.2.4 Javna rasprava po tužbi
+  - 4.1.2.5 Presuda
+    - 4.1.2.5.1 Vrste presuda
+      - 4.1.2.5.1.1 Presuda doneta u sporu ograničene jurisdikcije
+      - 4.1.2.5.1.2 Presuda doneta u sporu pune jurisdikcije
+      - 4.1.2.5.1.3 Presuda doneta u sporu zbog ćutanja uprave
+    - 4.1.2.5.2 Obaveznost presude
+      - 4.1.2.5.2.1 Presuda zbog nepostupanja po pravnom stavu suda
+      - 4.1.2.5.2.2 Rešenje koje zamenjuje akt nadležnog organa
+  - 4.1.2.6 Vanredna pravna sredstva
+    - 4.1.2.6.1 Zahtev za preispitivanje sudske odluke
+      - 4.1.2.6.1.1 Rešenje o odbacivanju zahteva
+      - 4.1.2.6.1.2 Presuda o odbijanju zahteva
+      - 4.1.2.6.1.3 Presuda kojom se zahtev uvažava
+    - 4.1.2.6.2 Ponavljanje upravno – sudskog postupka
+      - 4.1.2.6.2.1 Ponavljanje postupka pred Upravnim sudom
+      - 4.1.2.6.2.2 Ponavljanje postupka pred Vrhovnim sudom
+
+### 4.2 Upravno materijalno pravo
+- 4.2.1 Pravo po osnovu penzijsko invalidskog osiguranja
+- 4.2.2 Pravo po osnovu zdravstvenog osiguranja
+- 4.2.3 Pravo za slučaj nezaposlenosti
+- 4.2.4 Eksproprijacija i izuzimanje zemljišta iz poseda
+- 4.2.5 Komasacija
+- 4.2.6 Vraćanje imovine i obeštećenje (restitucija)
+  - 4.2.6.1 Vraćanje crkvama i verskim zajednicama
+  - 4.2.6.2 Vraćanje fizičkim licima
+- 4.2.7 Katastar nepokretnosti
+- 4.2.8 Upisi u javne registre
+- 4.2.9 Industrijska svojina i tehnička unapređenja
+- 4.2.10 Pristup informacijama od javnog značaja
+- 4.2.11 Zaštita konkurencije
+- 4.2.12 Javne nabavke
+- 4.2.13 Javno-privatno partnerstvo i koncesije
+- 4.2.14 Izgradnja i uklanjanje objekata
+  - 4.2.14.1 Izdavanje dozvole za građenje
+  - 4.2.14.2 Uklanjanje objekta
+- 4.2.15 Dozvola za javno okupljanje
+- 4.2.16 Izdavanje drugih posebnih dozvola
+- 4.2.17 Inspekcijske mere
+- 4.2.18 Stanovanje i održavanje zgrada
+- 4.2.19 Zaštita životne sredine
+- 4.2.20 Boravak stranaca
+- 4.2.21 Azil
+- 4.2.22 Javni prihodi
+  - 4.2.22.1 Carine
+  - 4.2.22.2 Porezi
+  - 4.2.22.3 Akcize
+  - 4.2.22.4 Takse
+  - 4.2.22.5 Ostali javni prihodi
+- 4.2.23 Usvojenje i starateljstvo
+- 4.2.24 Radnopravni sporovi
+  - 4.2.24.1 Državni službenici
+  - 4.2.24.2 Zaposleni u vojsci
+  - 4.2.24.3 Zaposleni u policiji
+  - 4.2.24.4 Zaposleni u carini
+  - 4.2.24.5 Zaposleni u organima autonomne pokrajne i organima jedinice lokalne samouprave
+  - 4.2.24.6 Izbor, razrešenje, imenovanje i postavljenje
+- 4.2.25 Zaštita prava narodnih poslanika
+- 4.2.26 Zaštita prava sudija
+- 4.2.27 Zaštita prava javnih tužilaca
+- 4.2.28 Advokatura
+- 4.2.29 Pravosudne profesije
+  - 4.2.29.1 Javni beležnici
+  - 4.2.29.2 Javni izvršitelji
+  - 4.2.29.3 Sudski veštaci
+  - 4.2.29.4 Sudski tumači i prevodioci
+  - 4.2.29.5 Medijatori - posrednici
+- 4.2.30 Stečajni upravnici
+- 4.2.31 Ostalo

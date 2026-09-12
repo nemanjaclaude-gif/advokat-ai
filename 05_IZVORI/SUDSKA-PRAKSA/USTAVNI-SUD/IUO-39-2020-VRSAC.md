@@ -1,0 +1,16 @@
+# CASE CARD
+
+- Sud: Ustavni sud Republike Srbije
+- Broj: ИУо-39/2020
+- Datum: 24.2.2022. (odluka doneta; objava — v. Bilten 2022)
+- Oblast/deskriptori: Urbanizam i gradnja; opšti akti organa lokalne samouprave; izmena planskog dokumenta putem amandmana na sednici skupštine
+- Pravno pitanje: Da li skupština jedinice lokalne samouprave može izmeniti urbanističko rešenje sadržano u predlogu planskog dokumenta prihvatanjem amandmana na samoj sednici skupštine, mimo procedure propisane za izmenu planskog dokumenta.
+- Relevantne činjenice: Grad Vršac je usvojio izmenu Plana detaljne regulacije centralne zone za Trg zelena pijaca. Na dan zasedanja (14.2.2020), grupa odbornika je podnela amandman kojim je promenjena namena parcele 9807/1 (iz javne pešačke zone u građevinsko zemljište druge namene). Skupština je amandman usvojila, bez da je nova sadržina prethodno prošla proceduru iz čl. 46 Zakona o planiranju i izgradnji (nije predočena Komisiji za planove, nije bila predmet javnog uvida u tom obliku).
+- Pravno shvatanje: "Скупштина града Вршца не може мењати плански документ на самој седници Скупштине, тако што ће прихватањем амандмана изменити урбанистичко решење садржано у акту који је предложен Скупштини на усвајање, већ се мора спровести поступак који је Законом прописан за измене и допуне планског документа." Sud je utvrdio povredu člana 51b Zakona o planiranju i izgradnji — pravo odbornika da podnose amandmane i pravo skupštine da o njima glasa NE ISKLJUČUJE obavezu sprovođenja propisane procedure izmene planskog dokumenta (javni uvid, komisija za planove) za sadržinu koju amandman unosi.
+- Ratio decidendi: Opšte pravo na amandmansku proceduru u skupštinskom radu ustupa mesto POSEBNOM, strožem zakonskom režimu za izmenu planskih dokumenata — sadržinska izmena urbanističkog rešenja unetog amandmanom mora, kao i svaka druga izmena plana, proći propisanu proceduru (javnost, stručna kontrola), bez obzira na formalno pravnu dozvoljenost amandmana kao parlamentarnog instrumenta.
+- Upotreba: SUPPORT za predmete koji se tiču nezakonite izmene urbanističkih planova mimo propisane procedure (analogan slučaj kao ИУо-277/2015, Brus).
+- Status: VERIFIED — pravno shvatanje i citati pročitani direktno iz `05_IZVORI/SUDSKA-PRAKSA/BILTENI/BILTEN-USTAVNOG-SUDA/bilten_2022.pdf`, str. 288-294.
+- Izvor: Bilten Ustavnog suda 2022, str. 288-294.
+
+## Napomena — nepovoljna/kontrastna praksa u istom biltenu
+Neposredno posle ovog predmeta, u istom biltenu (str. 295-301), Ustavni sud je odlučivao o predlogu za utvrđivanje nezakonitosti **Plana generalne regulacije "Požarevac 1"** (**Odluka ИУо-170/2020 od 10.3.2022**) i predlog ODBIO — utvrdio da je Skupština grada Požarevca postupila u SKLADU sa zakonom propisanom procedurom (javni uvid, komisija za planove sprovedeni uredno), i da Ustavni sud NIJE nadležan da ocenjuje CELISHODNOST/OPRAVDANOST konkretnih urbanističkih rešenja iz plana — samo zakonitost PROCEDURE njihovog donošenja. Ovo je važna, uravnotežujuća činjenica: Ustavni sud dosledno kontroliše SAMO proceduru (javnost, stručna kontrola), ne sadržinske/planerske odluke same po sebi — argumentacija u eventualnom predmetu treba da bude usmerena na PROCEDURALNE nedostatke, ne na neslaganje sa samim urbanističkim rešenjem.

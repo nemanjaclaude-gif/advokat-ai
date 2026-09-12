@@ -1,0 +1,3 @@
+Centralni dokazni sukob: nalaz "Profi Lab" d.o.o. (Čedomir Bogdanović — proizvodna greška) naspram nalaza "Jugoinspekt" a.d. (Lazar Ilić — neadekvatno korišćenje/održavanje). Sud je OBA PUTA (prvostepeno i u ponovljenom postupku) prihvatio "Profi Lab", ali je prvi put UKINUTO upravo zbog nedovoljnog obrazloženja tog izbora — u ponovljenom postupku sud je saslušao oba predstavnika radi usaglašavanja (nisu se usaglasili) i ponovo obrazložio prihvatanje "Profi Lab" (nedoslednosti u iskazu Lazara Ilića — nije se sećao pregleda, nije pogledao deklaraciju). Nezavisno veštačenje trećeg veštaka NIJE određeno (tužilac naveo da ne bi platio predujam) — ovo ostaje potencijalna slabost ako bi predmet dalje eskalirao.
+
+LAST UPDATED: 31.8.2026

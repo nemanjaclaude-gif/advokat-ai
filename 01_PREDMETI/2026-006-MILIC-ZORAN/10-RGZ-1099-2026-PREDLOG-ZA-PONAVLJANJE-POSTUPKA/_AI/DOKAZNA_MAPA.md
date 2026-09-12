@@ -1,0 +1,23 @@
+# DOKAZNA MAPA — pod-predmet 10
+
+| Dokaz | Šta dokazuje | Status | Izvor |
+|---|---|---|---|
+| Rešenje Poreske uprave 252-433-16-66337/1/2026-2000 od 16.7.2026 | Postojanje i sadržina osporene mere; da АА nije adresat/stranka | U spisu, primarni izvor, pročitan u celosti | `00_ULAZNI_DOKUMENTI/sredjeno konac.pdf` |
+| Zahtev Poreske uprave RGZ-u ...2100 od 16.7.2026 | Da je mera istog dana prosleđena RGZ na upis | U spisu, primarni izvor, pročitan u celosti | `00_ULAZNI_DOKUMENTI/sredjen yahtev kon1.pdf` |
+| Presuda Prvog osnovnog suda P 2939/25 (pravnosnažna 29.6.2025) | Ništavost Ugovora OPU: 268-2023; osnov ББ-ovog (izbrisanog) prava | POMINJE SE u RGZ rešenju od 7.7.2026 (posredno potvrđeno); **sama presuda NIJE u spisu ovog pod-predmeta** — pribaviti original pre podnošenja | Nacrt predloga, odeljak IV; RGZ rešenje 7.7.2026 |
+| Ugovor OPU: 268-2023 od 8.5.2023 | Jedini pravni osnov ББ-ovog upisa, naknadno oglašen ništavim | Posredno potvrđeno kroz RGZ rešenje 7.7.2026 (opisuje sadržinu); **original NIJE u spisu ovog pod-predmeta** | RGZ rešenje 7.7.2026 |
+| Rešenje SKN Zvezdara 952-02-4-230-89228/2025 od 30.7.2025 | RGZ-ova omaška pri sprovođenju presude | Posredno potvrđeno kroz RGZ rešenje 7.7.2026; original nije u ovom pod-predmetu (v. pod-predmet 02) | RGZ rešenje 7.7.2026 |
+| **RGZ Rešenje 952-02-13-230-1099/2026 od 7.7.2026** | Priznanje omaške; nalog za upis АА sa 4316/14165; **i** rekonstrukciju ranijeg (suprotnog) toka postupka | U spisu, primarni izvor, PROČITAN U CELOSTI (5 strana) | `00_ULAZNI_DOKUMENTI/952-02-13-230-1099_2026-2.pdf` |
+| **RGZ Rešenje 952-02-13-230-1099/2026 od 29.4.2026** (odbacivanje žalbe i zahteva za svojstvo stranke) | SUPROTAN presedan — v. `01_RADNI_MATERIJALI/PRAVNA-ANALIZA.md` Issue 2 | **NIJE u spisu kao zaseban dokument** — poznato samo iz prepričavanja u obrazloženju rešenja od 7.7.2026. **Pribaviti pun tekst pre podnošenja predloga.** | Rekonstruisano iz RGZ rešenja 7.7.2026 |
+| Zaključak javnog izvršitelja Dragane Vojvodić IIv 863/25 od 22.1.2026 | Osnov RGZ upisa zabeležbe izvršenja na 1164/14165 | Posredno potvrđeno kroz RGZ rešenje 7.7.2026; original nije u ovom pod-predmetu | RGZ rešenje 7.7.2026 |
+| Žalba АА od 9.3.2026 i od 27.5.2026 | Da je АА aktivno tražio priznanje svojstva stranke u vezanom RGZ postupku | Sadržaj poznat iz obrazloženja RGZ rešenja 7.7.2026; originalni podnesci nisu u ovom pod-predmetu | RGZ rešenje 7.7.2026 |
+| Dokaz o datumu saznanja АА za poresko rešenje od 16.7.2026 | Blagovremenost predloga (čl. 178 st. 1 ZUP) | **NE POSTOJI U SPISU / NIJE PRIBAVLJEN — v. PRAVNA-ANALIZA.md Issue 5, BLOKIRAJUĆE** | — |
+| Punomoćje (advokat Nemanja Ž. Žarić) | Ovlašćenje za zastupanje u ovom predlogu | Pominje se u nacrtu ("sa punomoćjem i prilozima"); fizički primerak nije proveren u ovom pod-predmetu | Nacrt predloga |
+| **Уж-1873/2023** (Ustavni sud) — citiran u nacrtu 2, odeljak III | Navodni stav US o zaštiti isključenog lica ponavljanjem postupka i toku subjektivnog roka | **NIJE PRONAĐEN nezavisnom proverom (ustavni.sud.rs, opšta pretraga)** — v. `01_RADNI_MATERIJALI/PRAVNA-ANALIZA.md` Issue 0. NE koristiti dok se ne potvrdi na zvaničnom izvoru. | `00_ULAZNI_DOKUMENTI/Predlog_za_ponavljanje_postupka_Zoran_Milic.docx` |
+| **Rev 3589/2022** (VKS) — citiran u nacrtu 2, odeljak VIII | Navodna zaštita savesnog trećeg lica u poreskom izvršenju | **NIJE PRONAĐEN pod tim brojem** (postoje samo različiti Rev predmeti sa sličnim brojem, druge sadržine) — v. Issue 0. NE koristiti. | `00_ULAZNI_DOKUMENTI/Predlog_za_ponavljanje_postupka_Zoran_Milic.docx` |
+| **Rev 3437/2022** (Vrhovni sud, 2.11.2023) — citiran u nacrtu 2, odeljak IX | Priroda prethodne mere iz čl. 85a ZPPPA (faktičko obezbeđenje, privremeni karakter) | **POTVRĐEN kao realna odluka** (vrh.sud.rs) — ALI se odnosi na ništavost ugovora o poklonu za vreme trajanja mere, ne na treće lice; opšta karakterizacija mere je tačna, primena na ovaj slučaj je presiroka — v. Issue 0. Koristiti oprezno, samo za opštu prirodu mere. | vrh.sud.rs (nezavisno pretraženo) |
+
+## Napomena o kompletnosti spisa
+Nekoliko dokaza na koje se nacrt predloga poziva (presuda P 2939/25, Ugovor OPU: 268-2023, Rešenje SKN Zvezdara 89228/2025, Zaključak IIv 863/25, žalbe od 9.3. i 27.5.2026) **nisu fizički u `00_ULAZNI_DOKUMENTI/` ovog pod-predmeta** — njihova sadržina je ovde potvrđena POSREDNO, kroz to što ih RGZ rešenje od 7.7.2026 (primarni izvor, pročitan u celosti) izričito opisuje i citira. Za samo podnošenje predloga (čiji dokazni prilog ih izričito nabraja) neophodno je pribaviti fizičke primerke — v. i vezan predmet `../02-RGZ-1099-2026-UPIS-ISPRAVKA/`, gde deo tih dokumenata može već postojati.
+
+LAST UPDATED: 1.9.2026

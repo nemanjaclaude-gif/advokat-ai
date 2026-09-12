@@ -1,0 +1,7 @@
+Finalna sinteza (posle CASE_EXTRACTION → RESEARCH → adversarial provere, dva kruga — drugi nacrt dodat i proveren 1.9.2026) — puna analiza u `../01_RADNI_MATERIJALI/PRAVNA-ANALIZA.md`.
+
+**Zaključak u jednoj rečenici**: Predlog je pravno osnovan (čl. 176 st. 1 tač. 5 ZUP preko čl. 3 ZPPPA, jaka materijalna potkrepa) i drugi, naknadno dodati nacrt (`Predlog_za_ponavljanje_postupka_Zoran_Milic.docx`) je pravno precizniji — ALI sadrži dva citata sudske prakse (Už-1873/2023 Ustavnog suda; Rev 3589/2022 VKS) koji nisu potvrđeni nezavisnom proverom i verovatno ne postoje, plus jedan (Rev 3437/2022) koji postoji ali je primenjen šire nego što pokriva — MORAJU se ukloniti/proveriti PRE bilo čega drugog (Issue 0, ozbiljniji nalaz od praznine u datumu saznanja koja i dalje stoji, Issue 5). Korisnikova naknadna ispravka (1.9.2026) — potvrđena nezavisnom proverom — dodatno je ojačala meritum: Poreska uprava se ne može pozivati na savesnost/pouzdanje u katastar (ta zaštita važi samo za sticaoca stvarnog prava, a prethodna mera to nije), a rešenje na kome je ББ-ov formalni upis počivao je uostalom već poništeno 9 dana pre poreskog rešenja (Issue 4, revidirano) — meritum je sada blizu HIGH; ono što CONFIDENCE i dalje drži na MODERATE su Issue 0 (neverifikovani citati) i Issue 2 (sopstveni mešoviti presedan).
+
+CONFIDENCE: MODERATE — v. `PRAVNA-ANALIZA.md` za obrazloženje.
+
+LAST UPDATED: 1.9.2026

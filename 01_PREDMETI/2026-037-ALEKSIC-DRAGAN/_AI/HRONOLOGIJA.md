@@ -1,0 +1,3 @@
+14.8.2025 — Ugovor o zakupu overen kod notara. 15.8.2025 — АА ulazi u stan. 9.1.2026 — АА vraća ključ (navodno bez najave otkaznog roka). 14.4.2026 — tužba podneta. 4.6.2026 — pokušana lična dostava tužbe+poziva, neuspešna. 8.6.-2.7.2026 — dostava preko oglasne table suda. 2.7.2026 — ročište, АА se ne pojavljuje, presuda zbog izostanka doneta istog dana. Dostava SAME presude — nepoznato kad. 21.8.2026 — presuda dostavljena tuženom. 30.8.2026 — punomoćje potpisano. 31.8.2026 — predmet uvezen u sistem; žalba sastavljena i podneta (blagovremeno — rok produžen sa subote 29.8. na ponedeljak 31.8.2026); predmet upućen Višem sudu u Zaječaru.
+
+LAST UPDATED: 31.8.2026

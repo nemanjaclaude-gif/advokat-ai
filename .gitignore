@@ -1,0 +1,45 @@
+# Ignoriši sadržaj dokumenata (predmeti, ulazni materijali, skenovi, itd.)
+# ali zadrži .md instrukcije, README, skillove i strukturu foldera.
+
+# Dokumenti
+*.pdf
+*.PDF
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.pages
+*.txt
+*.rtf
+
+# Slike / skenovi
+*.jpg
+*.jpeg
+*.JPG
+*.png
+*.PNG
+*.gif
+*.tiff
+*.tif
+
+# Arhive
+*.zip
+*.rar
+*.7z
+
+# macOS / Windows sistemski fajlovi
+.DS_Store
+*.lnk
+
+# "Formular" (.frdoc) bandl dokumenti i njihov sadržaj
+*.frdoc/
+*.xml
+*.frw
+*.layout
+.isOpen
+
+# Zadrži .md fajlove i placeholdere za praznu strukturu foldera i pored gornjih pravila
+!*.md
+!.gitkeep
